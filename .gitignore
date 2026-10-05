@@ -1,0 +1,4 @@
+﻿tmp/
+__pycache__/
+*.pyc
+INDEX/index_modeles.db

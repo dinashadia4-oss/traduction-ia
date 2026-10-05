@@ -1,0 +1,14 @@
+{
+  "word_nouveaux": 17,
+  "word_total": 54,
+  "pages_rendues_inspectees": 22,
+  "modeles_recurrents_verifies": 1994,
+  "exemples_gold_verifies": 54,
+  "sources_couverture_complete": [
+    11,
+    15,
+    16
+  ],
+  "archive_verifiee": "C:\\Users\\hatta\\Desktop\\Nouveau dossier (2)\\WORD_TRADUITS_PDF_11_15_16.zip",
+  "validation_utilisateur": "non reçue"
+}

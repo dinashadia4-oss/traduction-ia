@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-05",
+  "lot": [
+    21,
+    23,
+    24,
+    27,
+    29,
+    33
+  ],
+  "word": 36,
+  "pages_source": 91,
+  "pages_word": 40,
+  "modele_nombre": 22,
+  "dates": "grégoriennes uniquement ; équivalent manquant signalé",
+  "formule_finale": "Rabat. il 08/10/2026.N",
+  "validation_utilisateur": "non reçue",
+  "manifest": "tmp\\lot_21_23_24_27_29_33\\manifest_36.json",
+  "anciens": {
+    "total_reel_hors_verrous": 79,
+    "empreintes_identiques": 77,
+    "differences_detectees": [
+      "WORD_TRADUITS\\20\\01_ZAOUIA_Mohammed_-_ZAOUIA_Zakaria_Proprieta.docx",
+      "WORD_TRADUITS\\7\\01_BENZAHRA_Ghizlane_-_BALKASSMI_Hajar_Presa_a_carico.docx"
+    ],
+    "note": "Les scripts de ce lot écrivent uniquement les nouveaux dossiers 21,23,24,27,29,33. Deux documents anciens ont changé pendant la séance ; ils ne sont ni restaurés ni attribués à une correction de ce lot."
+  },
+  "rendu": "Microsoft Word COM puis Poppler 2200 pixels ; toutes les pages inspectées",
+  "canonique": "Tentative render_docx.py : FileNotFoundError LibreOffice soffice.exe was not found on PATH"
+}

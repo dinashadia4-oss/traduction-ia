@@ -1,0 +1,981 @@
+[
+  {
+    "modele": "ATTESTATO DI CONCORDANZA  DEI NOMI",
+    "reference_word": "gold\\MODELES\\e892cd0fd4cc\\ATTESTATO DI CONCORDANZA  DEI NOMI.docx",
+    "sha256": "e892cd0fd4cc23dd1a38765555d7c7094ac1386f2110d37cec84197b86e7a5a4",
+    "original_serv": "serv\\casa\\SERVI\\ATTESTATO DI CONCORDANZA  DEI NOMI.doc",
+    "original_gold": "gold\\MODELES\\e892cd0fd4cc\\ATTESTATO DI CONCORDANZA  DEI NOMI.doc",
+    "provenance": "modèle original fourni via INDEX/serv",
+    "types_actes": [
+      "Concordanza dei nomi"
+    ],
+    "nombre_utilisations": 1
+  },
+  {
+    "modele": "CA250616014-C",
+    "reference_word": "gold\\MODELES\\0427e7a23b5d\\CA250616014-C.docx",
+    "sha256": "0427e7a23b5de37a75365ca5cf16d7298ccd6a9df28cec0157c422a012ccd092",
+    "original_serv": "",
+    "original_gold": "",
+    "provenance": "référence convertie du lot précédent, conservée sans modification",
+    "types_actes": [
+      "Quietanza liberatoria"
+    ],
+    "nombre_utilisations": 1
+  },
+  {
+    "modele": "CA250616014-F",
+    "reference_word": "gold\\MODELES\\af074788a54f\\CA250616014-F.docx",
+    "sha256": "af074788a54f39e92284dd5da1cd28f4fe691a1697489a1728f25f4f405d6264",
+    "original_serv": "",
+    "original_gold": "",
+    "provenance": "référence convertie du lot précédent, conservée sans modification",
+    "types_actes": [
+      "Legame di parentela",
+      "Non divorzio",
+      "Professione",
+      "Unica moglie"
+    ],
+    "nombre_utilisations": 8
+  },
+  {
+    "modele": "CA250620004-D",
+    "reference_word": "gold\\MODELES\\472b3c316b65\\CA250620004-D.docx",
+    "sha256": "472b3c316b65e7d880d489a220e8e0d2545cdaafdc60185e7ed216e7c4d19733",
+    "original_serv": "",
+    "original_gold": "",
+    "provenance": "référence convertie du lot précédent, conservée sans modification",
+    "types_actes": [
+      "Voti IFIAG 2021-2022",
+      "Voti IFIAG 2022-2023",
+      "Voti Polyvalence 2023-2024",
+      "Voti Polyvalence 2024-2025"
+    ],
+    "nombre_utilisations": 4
+  },
+  {
+    "modele": "RA221226003_A à voir",
+    "reference_word": "gold\\MODELES\\de7621ab5424\\RA221226003_A à voir.docx",
+    "sha256": "de7621ab5424472edccbd5bae81735a925d1f8c5ebd8bfdfa1f341182d9061fe",
+    "original_serv": "serv\\dossier trad 3\\achraf\\RA221226003_A à voir.doc",
+    "original_gold": "gold\\MODELES\\de7621ab5424\\RA221226003_A à voir.doc",
+    "provenance": "modèle original fourni via INDEX/serv",
+    "types_actes": [
+      "Programma di formazione IFPP"
+    ],
+    "nombre_utilisations": 1
+  },
+  {
+    "modele": "RA240529001_A",
+    "reference_word": "gold\\MODELES\\a7929f8c23b2\\RA240529001_A.docx",
+    "sha256": "a7929f8c23b22b5b104b77d191977a5c20808b316e03b3f3484341ba0ed589dc",
+    "original_serv": "",
+    "original_gold": "",
+    "provenance": "référence convertie du lot précédent, conservée sans modification",
+    "types_actes": [
+      "Copia integrale nascita",
+      "Estratto atto di nascita",
+      "Estratto nascita"
+    ],
+    "nombre_utilisations": 7
+  },
+  {
+    "modele": "RA241018002_E",
+    "reference_word": "gold\\MODELES\\6e6f53f2fb5f\\RA241018002_E.docx",
+    "sha256": "6e6f53f2fb5fc2bbf6de2233164e353991b069bb17b8c538b8f6795211df2d66",
+    "original_serv": "",
+    "original_gold": "",
+    "provenance": "référence convertie du lot précédent, conservée sans modification",
+    "types_actes": [
+      "Esistenza in vita collettiva"
+    ],
+    "nombre_utilisations": 3
+  },
+  {
+    "modele": "RA241120004",
+    "reference_word": "gold\\MODELES\\fbcd1b3f6488\\RA241120004.docx",
+    "sha256": "fbcd1b3f6488ef25c03336d3d4139533380afd409b953ece85cc6a4bf6b70395",
+    "original_serv": "serv\\dossier trad 3\\RA241120004.doc",
+    "original_gold": "gold\\MODELES\\fbcd1b3f6488\\RA241120004.doc",
+    "provenance": "modèle original fourni via INDEX/serv",
+    "types_actes": [
+      "Diploma di tecnico specializzato IFPP"
+    ],
+    "nombre_utilisations": 1
+  },
+  {
+    "modele": "RA250619020_A",
+    "reference_word": "gold\\MODELES\\1893a11a457d\\RA250619020_A.docx",
+    "sha256": "1893a11a457d83af81705dcef8da17869242a3195329dca73c794b2ccfd1d2b2",
+    "original_serv": "",
+    "original_gold": "",
+    "provenance": "référence convertie du lot précédent, conservée sans modification",
+    "types_actes": [
+      "Diploma Polyvalence"
+    ],
+    "nombre_utilisations": 1
+  },
+  {
+    "modele": "RA250619020_G",
+    "reference_word": "gold\\MODELES\\156718eb07e1\\RA250619020_G.docx",
+    "sha256": "156718eb07e1cbd58f4923f5f21d602854f190aa6f1d2dd9ebc97332794ab9f4",
+    "original_serv": "",
+    "original_gold": "",
+    "provenance": "référence convertie du lot précédent, conservée sans modification",
+    "types_actes": [
+      "Presa a carico"
+    ],
+    "nombre_utilisations": 4
+  },
+  {
+    "modele": "RA250619020_H att",
+    "reference_word": "gold\\MODELES\\8d9116e3c089\\RA250619020_H att.docx",
+    "sha256": "8d9116e3c089e0131baf651c65962cfe3926cfc9d56b5ee5d76b89dcd2cd2a0b",
+    "original_serv": "",
+    "original_gold": "",
+    "provenance": "référence convertie du lot précédent, conservée sans modification",
+    "types_actes": [
+      "Libretto di famiglia"
+    ],
+    "nombre_utilisations": 2
+  },
+  {
+    "modele": "RA250620014-B",
+    "reference_word": "gold\\MODELES\\421ceaea59a4\\RA250620014-B.docx",
+    "sha256": "421ceaea59a4a264356ae3363ec94a2ff830d910c347b24c8b357f0e527fefeb",
+    "original_serv": "",
+    "original_gold": "",
+    "provenance": "référence convertie du lot précédent, conservée sans modification",
+    "types_actes": [
+      "Diploma IFIAG"
+    ],
+    "nombre_utilisations": 1
+  },
+  {
+    "modele": "RA250701024_D",
+    "reference_word": "gold\\MODELES\\2652388e1fd8\\RA250701024_D.docx",
+    "sha256": "2652388e1fd834cf68cfc5bc31a9cbed03463a6eb8c1f3223ab0bf37e775178b",
+    "original_serv": "serv\\juillet 2025\\à corr. Rabat 22_07\\RA250701024_D.doc",
+    "original_gold": "gold\\MODELES\\2652388e1fd8\\RA250701024_D.doc",
+    "provenance": "modèle original fourni via INDEX/serv",
+    "types_actes": [
+      "Pagella IFPP primo anno"
+    ],
+    "nombre_utilisations": 1
+  },
+  {
+    "modele": "RA250701024_E",
+    "reference_word": "gold\\MODELES\\f965d62a4f0e\\RA250701024_E.docx",
+    "sha256": "f965d62a4f0ea219962ece2bbada0131ed5a06c13f3403295f4fd85fd8a091f3",
+    "original_serv": "serv\\juillet 2025\\à corr. Rabat 22_07\\RA250701024_E.doc",
+    "original_gold": "gold\\MODELES\\f965d62a4f0e\\RA250701024_E.doc",
+    "provenance": "modèle original fourni via INDEX/serv",
+    "types_actes": [
+      "Pagella IFPP terzo anno",
+      "Riepilogo voti IFPP"
+    ],
+    "nombre_utilisations": 2
+  },
+  {
+    "modele": "RA250701024_F",
+    "reference_word": "gold\\MODELES\\fadeb608a649\\RA250701024_F.docx",
+    "sha256": "fadeb608a6496819476bb91611d03f2c4193ba881ec6659b99b4a6ce67d43ba0",
+    "original_serv": "serv\\juillet 2025\\à corr. Rabat 22_07\\RA250701024_F.doc",
+    "original_gold": "gold\\MODELES\\fadeb608a649\\RA250701024_F.doc",
+    "provenance": "modèle original fourni via INDEX/serv",
+    "types_actes": [
+      "Pagella IFPP secondo anno"
+    ],
+    "nombre_utilisations": 1
+  },
+  {
+    "modele": "RA250808018-B",
+    "reference_word": "gold\\MODELES\\85c4bf7329ad\\RA250808018-B.docx",
+    "sha256": "85c4bf7329ad93b57bd421095b5a42f9b8993a2b136564a37a54775356d70520",
+    "original_serv": "",
+    "original_gold": "",
+    "provenance": "référence convertie du lot précédent, conservée sans modification",
+    "types_actes": [
+      "Cifra affari",
+      "Iscrizione tassa professionale",
+      "Notifica identificativo fiscale",
+      "Reddito mensile",
+      "Regolarita fiscale"
+    ],
+    "nombre_utilisations": 5
+  },
+  {
+    "modele": "RA250815003_C",
+    "reference_word": "gold\\MODELES\\a90c040bbc74\\RA250815003_C.docx",
+    "sha256": "a90c040bbc74596c211bac2e0e0e01b06172cb6abf05fb7d93ae7567fd8396d0",
+    "original_serv": "",
+    "original_gold": "",
+    "provenance": "référence convertie du lot précédent, conservée sans modification",
+    "types_actes": [
+      "Attestato del baccalaureato",
+      "Diploma maturita"
+    ],
+    "nombre_utilisations": 3
+  },
+  {
+    "modele": "RA250815003_D",
+    "reference_word": "gold\\MODELES\\1c3146482b21\\RA250815003_D.docx",
+    "sha256": "1c3146482b21bc9272620d1506cbfc5dbb95adcdd292254a3f696a9e7e7afa51",
+    "original_serv": "",
+    "original_gold": "",
+    "provenance": "référence convertie du lot précédent, conservée sans modification",
+    "types_actes": [
+      "Pagella del baccalaureato",
+      "Voti maturita"
+    ],
+    "nombre_utilisations": 3
+  },
+  {
+    "modele": "RA251001016-B",
+    "reference_word": "gold\\MODELES\\5bf6d69d96f0\\RA251001016-B.docx",
+    "sha256": "5bf6d69d96f0a5a6d32689a321ab8fff99b83b44d7c0cf6ff65789bd8ecb072d",
+    "original_serv": "serv\\Ottobre 2025\\à corr. Rabat 10_10\\RA251001016-B.doc",
+    "original_gold": "gold\\MODELES\\5bf6d69d96f0\\RA251001016-B.doc",
+    "provenance": "modèle original fourni via INDEX/serv",
+    "types_actes": [
+      "Carico familiare"
+    ],
+    "nombre_utilisations": 1
+  },
+  {
+    "modele": "RA251027008-A",
+    "reference_word": "gold\\MODELES\\90f923883e66\\RA251027008-A.docx",
+    "sha256": "90f923883e66d352e46da6f109117078fc2e9b750ec493fb8459f1a64302f3fc",
+    "original_serv": "",
+    "original_gold": "",
+    "provenance": "référence convertie du lot précédent, conservée sans modification",
+    "types_actes": [
+      "Libretto di famiglia"
+    ],
+    "nombre_utilisations": 4
+  },
+  {
+    "modele": "RA240304006_B",
+    "reference_word": "gold\\MODELES\\fdb8ef46ceea\\RA240304006_B.docx",
+    "sha256": "fdb8ef46ceeaa0a0398abfbfb8db5228d6c124ea387a1584c580016f1395ec45",
+    "original_serv": "serv\\dossier trad 3\\RA240304006_B.doc",
+    "original_gold": "gold\\MODELES\\fdb8ef46ceea\\RA240304006_B.doc",
+    "original_sha256": "03c1941ea869858fb71936cbbe98276d983fc2b831ff7a365c223f786ed3ee67",
+    "provenance": "modèle original fourni via INDEX/serv, conversion Word sans modification des données",
+    "types_actes": [
+      "Copia_integrale_nascita"
+    ],
+    "nombre_utilisations": 2
+  },
+  {
+    "modele": "RA240827004_U",
+    "reference_word": "gold\\MODELES\\942c2fcaf5e5\\RA240827004_U.docx",
+    "sha256": "942c2fcaf5e5c2e5913a96a76ea73ad5784eed5d22640741bf2fd8ee98563a3c",
+    "original_serv": "serv\\dossier trad 3\\RA240827004_U.doc",
+    "original_gold": "gold\\MODELES\\942c2fcaf5e5\\RA240827004_U.doc",
+    "original_sha256": "445f9933b7a161f236e45bd0ed6b6f53a0f4cbb6bf7274f3ae5d40f417b8fcc3",
+    "provenance": "modèle original fourni via INDEX/serv, conversion Word sans modification des données",
+    "types_actes": [
+      "Pagella_OFPPT"
+    ],
+    "nombre_utilisations": 1
+  },
+  {
+    "modele": "RA240919016_B",
+    "reference_word": "gold\\MODELES\\b27cbf43fd43\\RA240919016_B.docx",
+    "sha256": "b27cbf43fd4302725ebaa6e436df500faf1246d333987a086697545b2e92d12e",
+    "original_serv": "serv\\dossier trad 3\\RA240919016_B.doc",
+    "original_gold": "gold\\MODELES\\b27cbf43fd43\\RA240919016_B.doc",
+    "original_sha256": "4ebde1f7d144ac6659abca16193b11ae174bd37a2ec71d91944c67a926f1516d",
+    "provenance": "modèle original fourni via INDEX/serv, conversion Word sans modification des données",
+    "types_actes": [
+      "Pagella_Baccalaureato"
+    ],
+    "nombre_utilisations": 1
+  },
+  {
+    "modele": "RA250212004_B",
+    "reference_word": "gold\\MODELES\\f4638082a9ab\\RA250212004_B.docx",
+    "sha256": "f4638082a9abe6c19f96c0b6ef5affbebe5a0899157ec054988599b4c71aaa78",
+    "original_serv": "serv\\Dossier Maria 2025\\à corr. Rabat 13_02\\RA250212004_B.doc",
+    "original_gold": "gold\\MODELES\\f4638082a9ab\\RA250212004_B.doc",
+    "original_sha256": "6bcbc785c1f4c45a96e4e3da713c92294d429be22b99b25487fac8c835c043ff",
+    "provenance": "modèle original fourni via INDEX/serv, conversion Word sans modification des données",
+    "types_actes": [
+      "Copia_integrale_nascita"
+    ],
+    "nombre_utilisations": 1
+  },
+  {
+    "modele": "RA250523004_B",
+    "reference_word": "gold\\MODELES\\90f3ba4ae218\\RA250523004_B.docx",
+    "sha256": "90f3ba4ae2184dce811d4eae5437f4dd13687f53b227b8fdb32e79c620b69ede",
+    "original_serv": "serv\\a corr. rabat 02-06\\RA250523004_B.doc",
+    "original_gold": "gold\\MODELES\\90f3ba4ae218\\RA250523004_B.doc",
+    "original_sha256": "19080bf87f17c32aeb408a2d1803456fe78b2f882069f50b08a5f409e0907208",
+    "provenance": "modèle original fourni via INDEX/serv, conversion Word sans modification des données",
+    "types_actes": [
+      "Diploma_OFPPT"
+    ],
+    "nombre_utilisations": 1
+  },
+  {
+    "modele": "RA250530012_C",
+    "reference_word": "gold\\MODELES\\62082e4c6297\\RA250530012_C.docx",
+    "sha256": "62082e4c6297e937fe5fe928ac217df36c4ba0726b46eebea4e7deb526cb25d2",
+    "original_serv": "serv\\dossier trad 3\\RA250530012_C.doc",
+    "original_gold": "gold\\MODELES\\62082e4c6297\\RA250530012_C.doc",
+    "original_sha256": "e0b2f31c09c015dae4e5a39a4b500f6961d16c6bb019dae0b8b4850d1168da65",
+    "provenance": "modèle original fourni via INDEX/serv, conversion Word sans modification des données",
+    "types_actes": [
+      "Esistenza_in_vita"
+    ],
+    "nombre_utilisations": 1
+  },
+  {
+    "modele": "RA250619020_G",
+    "reference_word": "gold\\MODELES\\006b732f34b6\\RA250619020_G.docx",
+    "sha256": "006b732f34b666d72cbe0d7577291675b3385ddec1471ae18b9f2e3a05819f26",
+    "original_serv": "serv\\juillet 2025\\à corr. Rabat 07_07\\RA250619020_G.doc",
+    "original_gold": "gold\\MODELES\\006b732f34b6\\RA250619020_G.doc",
+    "original_sha256": "556a9ac98f7c2089132b4cd7013372c85a29db9e09b25ab575ff5d7c89d86836",
+    "provenance": "modèle original fourni via INDEX/serv, conversion Word sans modification des données",
+    "types_actes": [
+      "Presa_a_carico"
+    ],
+    "nombre_utilisations": 1
+  },
+  {
+    "modele": "RA250718007_B",
+    "reference_word": "gold\\MODELES\\f210aea5b135\\RA250718007_B.docx",
+    "sha256": "f210aea5b135b717988ed117f8dc2ca27554d00eac2731d1dc34e1cdc74a7d2f",
+    "original_serv": "serv\\Aout 2025\\à corr. Rabat 25_08\\RA250718007_B.doc",
+    "original_gold": "gold\\MODELES\\f210aea5b135\\RA250718007_B.doc",
+    "original_sha256": "0059357cd1415aea8bd8562f673226e7ca07122bcc4216e7611036abc220c05d",
+    "provenance": "modèle original fourni via INDEX/serv, conversion Word sans modification des données",
+    "types_actes": [
+      "Diploma_HASHTAG"
+    ],
+    "nombre_utilisations": 1
+  },
+  {
+    "modele": "RA250723020-C",
+    "reference_word": "gold\\MODELES\\9557b3e394f3\\RA250723020-C.docx",
+    "sha256": "9557b3e394f3cf011ed7fe2e35a4f3ae45420ad40d90a8b5fbc0c1c6635beb7b",
+    "original_serv": "serv\\Aout 2025\\à corr. Rabat 28_08\\RA250723020-C.doc",
+    "original_gold": "gold\\MODELES\\9557b3e394f3\\RA250723020-C.doc",
+    "original_sha256": "c620d455e9fd0771f76589d592ddb79d37941c731445586976d159ae2d36e92b",
+    "provenance": "modèle original fourni via INDEX/serv, conversion Word sans modification des données",
+    "types_actes": [
+      "Parentela"
+    ],
+    "nombre_utilisations": 1
+  },
+  {
+    "modele": "RA250729008_A",
+    "reference_word": "gold\\MODELES\\8bd8558ebd8a\\RA250729008_A.docx",
+    "sha256": "8bd8558ebd8ac759588a4e63a9a49316419a54a266ba0b08b8e13a80aa986970",
+    "original_serv": "serv\\à corr. Rabat 01_09\\RA250729008_A.doc",
+    "original_gold": "gold\\MODELES\\8bd8558ebd8a\\RA250729008_A.doc",
+    "original_sha256": "f73f4347e8624d0d89a52be064e41b22df27efd8f99e8f8bc5d0fbf16854d4ca",
+    "provenance": "modèle original fourni via INDEX/serv, conversion Word sans modification des données",
+    "types_actes": [
+      "Presa_a_carico"
+    ],
+    "nombre_utilisations": 2
+  },
+  {
+    "modele": "RA250729008_C",
+    "reference_word": "gold\\MODELES\\704bf06ba16b\\RA250729008_C.docx",
+    "sha256": "704bf06ba16babacd9c45a608111fba3aff2d207f95e1d5ac37003a152da6f37",
+    "original_serv": "serv\\à corr. Rabat 01_09\\RA250729008_C.doc",
+    "original_gold": "gold\\MODELES\\704bf06ba16b\\RA250729008_C.doc",
+    "original_sha256": "7e09f3dac00b8d146ec33c073f2b0b1a360870dd1a24a847401e1d73a3e977be",
+    "provenance": "modèle original fourni via INDEX/serv, conversion Word sans modification des données",
+    "types_actes": [
+      "Parentela"
+    ],
+    "nombre_utilisations": 2
+  },
+  {
+    "modele": "RA250804020-B",
+    "reference_word": "gold\\MODELES\\fad3f5b1a303\\RA250804020-B.docx",
+    "sha256": "fad3f5b1a30390f4fbb780e10eea1cd9b2b553d9520d03fcf64925e24ad7df1d",
+    "original_serv": "serv\\a corr. Rabat 03-09\\RA250804020-B.doc",
+    "original_gold": "gold\\MODELES\\fad3f5b1a303\\RA250804020-B.doc",
+    "original_sha256": "d8c42446317b92f28dc3dd8053cdab6e8b2aadd36bd0016f94d44b29cc928feb",
+    "provenance": "modèle original fourni via INDEX/serv, conversion Word sans modification des données",
+    "types_actes": [
+      "Reddito"
+    ],
+    "nombre_utilisations": 1
+  },
+  {
+    "modele": "RA250804020-D",
+    "reference_word": "gold\\MODELES\\0453cd344404\\RA250804020-D.docx",
+    "sha256": "0453cd3444046112135c800702ad19db6ec0e36921b38d9ca6071e1657af9910",
+    "original_serv": "serv\\a corr. Rabat 03-09\\RA250804020-D.doc",
+    "original_gold": "gold\\MODELES\\0453cd344404\\RA250804020-D.doc",
+    "original_sha256": "1d1665b903d7123ed0b648673d06971a9a9c1d9869bcf3299be4a5f72945cffb",
+    "provenance": "modèle original fourni via INDEX/serv, conversion Word sans modification des données",
+    "types_actes": [
+      "Lavoro"
+    ],
+    "nombre_utilisations": 1
+  },
+  {
+    "modele": "RA250908006_E",
+    "reference_word": "gold\\MODELES\\19d5c968734d\\RA250908006_E.docx",
+    "sha256": "19d5c968734d6c9933284cabb15a3be1852bafde17c7a0d249131ce9401962b7",
+    "original_serv": "serv\\a corr. Rabat 10-09\\RA250908006_E.doc",
+    "original_gold": "gold\\MODELES\\19d5c968734d\\RA250908006_E.doc",
+    "original_sha256": "4aa01110fa51b8cde11df4bee46974cf40e46a8ec62915d39f955efde4a4c5ee",
+    "provenance": "modèle original fourni via INDEX/serv, conversion Word sans modification des données",
+    "types_actes": [
+      "Estratto_decesso"
+    ],
+    "nombre_utilisations": 1
+  },
+  {
+    "modele": "RA250912008_P",
+    "reference_word": "gold\\MODELES\\87bc1149cc96\\RA250912008_P.docx",
+    "sha256": "87bc1149cc9687feee42b349903e75d0ec6bbf8acab4c67b91b83c85888bea59",
+    "original_serv": "serv\\Ottobre 2025\\à corr. Rabat 31_10\\RA250912008_P.doc",
+    "original_gold": "gold\\MODELES\\87bc1149cc96\\RA250912008_P.doc",
+    "original_sha256": "5eff4135f69723e57861f170ac9c9bc36fd0ac3b4f54367bb074be267ce77eef",
+    "provenance": "modèle original fourni via INDEX/serv, conversion Word sans modification des données",
+    "types_actes": [
+      "Tirocinio_HASHTAG"
+    ],
+    "nombre_utilisations": 1
+  },
+  {
+    "modele": "RA250930019_B",
+    "reference_word": "gold\\MODELES\\ed1700e35625\\RA250930019_B.docx",
+    "sha256": "ed1700e356252757b384603aa6507a4fa83404e47b707db498e362704126f1c8",
+    "original_serv": "serv\\Ottobre 2025\\a corr. Rabat 13-10\\RA250930019_B.doc",
+    "original_gold": "gold\\MODELES\\ed1700e35625\\RA250930019_B.doc",
+    "original_sha256": "6ed0e7c0934aa2e5048dd4f0b62a83ca4096a03d0a987b2f9bb6fba27d267a3e",
+    "provenance": "modèle original fourni via INDEX/serv, conversion Word sans modification des données",
+    "types_actes": [
+      "Parentela"
+    ],
+    "nombre_utilisations": 1
+  },
+  {
+    "modele": "RA251001005-C",
+    "reference_word": "gold\\MODELES\\eaab0fbd9370\\RA251001005-C.docx",
+    "sha256": "eaab0fbd937030ccb6b7450359c6a1abfa5eed327aa295614096c6c9e031ec56",
+    "original_serv": "serv\\Ottobre 2025\\à corr. Rabat 17_10\\RA251001005-C.doc",
+    "original_gold": "gold\\MODELES\\eaab0fbd9370\\RA251001005-C.doc",
+    "original_sha256": "27ae366282753d2c498fb3f3704d5543e46ae399546dc192cb98fe35f4051d66",
+    "provenance": "modèle original fourni via INDEX/serv, conversion Word sans modification des données",
+    "types_actes": [
+      "Pagella_HASHTAG"
+    ],
+    "nombre_utilisations": 1
+  },
+  {
+    "modele": "RA251001012-B",
+    "reference_word": "gold\\MODELES\\2be4bc01803b\\RA251001012-B.docx",
+    "sha256": "2be4bc01803b8c0e9334316d4a8276306647b1cb8e1e23b72b991d846af432a7",
+    "original_serv": "serv\\Ottobre 2025\\à corr. Rabat 14_10\\RA251001012-B.doc",
+    "original_gold": "gold\\MODELES\\2be4bc01803b\\RA251001012-B.doc",
+    "original_sha256": "4d5454c9948f4348f41e95f6a1a74cc86e0ecc20a3d97f39ff4a5ff87367a3c2",
+    "provenance": "modèle original fourni via INDEX/serv, conversion Word sans modification des données",
+    "types_actes": [
+      "Libretto_di_famiglia"
+    ],
+    "nombre_utilisations": 3
+  },
+  {
+    "modele": "RA251001012-C",
+    "reference_word": "gold\\MODELES\\60abf5559ae0\\RA251001012-C.docx",
+    "sha256": "60abf5559ae03394ea82aed6461fb6d182e6eaa509219318900e93293cebf178",
+    "original_serv": "serv\\Ottobre 2025\\à corr. Rabat 14_10\\RA251001012-C.doc",
+    "original_gold": "gold\\MODELES\\60abf5559ae0\\RA251001012-C.doc",
+    "original_sha256": "00c83a03c5732803652110dfda99b5ca9c20ef0f0f3b57f2e6bd048025a9b988",
+    "provenance": "modèle original fourni via INDEX/serv, conversion Word sans modification des données",
+    "types_actes": [
+      "Esistenza_in_vita"
+    ],
+    "nombre_utilisations": 2
+  },
+  {
+    "modele": "RA251009011-A",
+    "reference_word": "gold\\MODELES\\1d51e3f1867a\\RA251009011-A.docx",
+    "sha256": "1d51e3f1867aad2bd4c22487a65898784edd785d0ce11dd5ac84e68c51bb4113",
+    "original_serv": "serv\\Ottobre 2025\\à corr. Rabat 22_10\\RA251009011-A.doc",
+    "original_gold": "gold\\MODELES\\1d51e3f1867a\\RA251009011-A.doc",
+    "original_sha256": "815163697976ae6d628b2ecb76a403de2e55aa6eb2b404b0b5cf23341faf0be9",
+    "provenance": "modèle original fourni via INDEX/serv, conversion Word sans modification des données",
+    "types_actes": [
+      "Proprieta"
+    ],
+    "nombre_utilisations": 1
+  },
+  {
+    "modele": "RA240304006_B",
+    "reference_word": "gold\\MODELES\\724e63319798\\RA240304006_B.docx",
+    "sha256": "724e6331979856ad520c574eefdfc1ec0e7bc403781f2be37a9b3713aab7db3b",
+    "original_serv": "serv\\dossier trad 3\\RA240304006_B.doc",
+    "original_gold": "gold\\MODELES\\724e63319798\\RA240304006_B.doc",
+    "original_sha256": "03c1941ea869858fb71936cbbe98276d983fc2b831ff7a365c223f786ed3ee67",
+    "provenance": "modèle original INDEX/serv, converti sans changement des données par Microsoft Word",
+    "types_actes": [
+      "Copia_integrale_nascita"
+    ],
+    "nombre_utilisations": 1,
+    "lot": [
+      21,
+      23,
+      24,
+      27,
+      29,
+      33
+    ]
+  },
+  {
+    "modele": "RA240812018_C à voir",
+    "reference_word": "gold\\MODELES\\1719f86ed870\\RA240812018_C à voir.docx",
+    "sha256": "1719f86ed870179b297cf0f8244fa70708a2e84e80431af859998da8351af9f5",
+    "original_serv": "serv\\dossier trad 3\\RA240812018_C à voir.doc",
+    "original_gold": "gold\\MODELES\\1719f86ed870\\RA240812018_C à voir.doc",
+    "original_sha256": "0626319c380b2fff00b6b95615492e03c183bf7cf3776ba0738e348880372f43",
+    "provenance": "modèle original INDEX/serv, converti sans changement des données par Microsoft Word",
+    "types_actes": [
+      "Inventario_immobiliare"
+    ],
+    "nombre_utilisations": 1,
+    "lot": [
+      21,
+      23,
+      24,
+      27,
+      29,
+      33
+    ]
+  },
+  {
+    "modele": "RA241002011_C",
+    "reference_word": "gold\\MODELES\\e1a0b0ace313\\RA241002011_C.docx",
+    "sha256": "e1a0b0ace31334ee596be6436f686cc2a9a4ea612772d25b979882bcb8e3a4df",
+    "original_serv": "serv\\dossier trad 3\\RA241002011_C.doc",
+    "original_gold": "gold\\MODELES\\e1a0b0ace313\\RA241002011_C.doc",
+    "original_sha256": "3fb894df5be06b709951415ff50992774106700c2f2f270af2b4eba0f338f6df",
+    "provenance": "modèle original INDEX/serv, converti sans changement des données par Microsoft Word",
+    "types_actes": [
+      "Reddito",
+      "Reddito_pensione"
+    ],
+    "nombre_utilisations": 2,
+    "lot": [
+      21,
+      23,
+      24,
+      27,
+      29,
+      33
+    ]
+  },
+  {
+    "modele": "RA241105002_A",
+    "reference_word": "gold\\MODELES\\c8ea63f6806d\\RA241105002_A.docx",
+    "sha256": "c8ea63f6806d2085d5a0093f83d80844e1cc40603f7178880bc510933f9ed3c0",
+    "original_serv": "serv\\a corr. Rabat 13-11\\RA241105002_A.doc",
+    "original_gold": "gold\\MODELES\\c8ea63f6806d\\RA241105002_A.doc",
+    "original_sha256": "f0fda02fee23dc2a1de91dd46ec9f79b60e4aefec40bd4b7b6efb036b6e100c7",
+    "provenance": "modèle original INDEX/serv, converti sans changement des données par Microsoft Word",
+    "types_actes": [
+      "Estratto_nascita"
+    ],
+    "nombre_utilisations": 1,
+    "lot": [
+      21,
+      23,
+      24,
+      27,
+      29,
+      33
+    ]
+  },
+  {
+    "modele": "RA250212004_A",
+    "reference_word": "gold\\MODELES\\b4d2c8d513f6\\RA250212004_A.docx",
+    "sha256": "b4d2c8d513f67bec1f6099c99591979a6c156e911e429679f7730c4c99a9911f",
+    "original_serv": "serv\\Dossier Maria 2025\\à corr. Rabat 13_02\\RA250212004_A.doc",
+    "original_gold": "gold\\MODELES\\b4d2c8d513f6\\RA250212004_A.doc",
+    "original_sha256": "444f5a748389c831714ba9a490f56a80bbf1e874ffa4b8ed8722a20923c82269",
+    "provenance": "modèle original INDEX/serv, converti sans changement des données par Microsoft Word",
+    "types_actes": [
+      "Estratto_nascita"
+    ],
+    "nombre_utilisations": 1,
+    "lot": [
+      21,
+      23,
+      24,
+      27,
+      29,
+      33
+    ]
+  },
+  {
+    "modele": "RA250522016_G",
+    "reference_word": "gold\\MODELES\\303368648c81\\RA250522016_G.docx",
+    "sha256": "303368648c819295c58d908dcfc27fe5a67a901a89f9478d2d73955c6459703f",
+    "original_serv": "serv\\Juin 2025\\à Corr. rabat 20_06\\RA250522016_G.doc",
+    "original_gold": "gold\\MODELES\\303368648c81\\RA250522016_G.doc",
+    "original_sha256": "61d4ebdd2042e4a699c6b987c8da006d77090dc7acf1b10990bc51857b435558",
+    "provenance": "modèle original INDEX/serv, converti sans changement des données par Microsoft Word",
+    "types_actes": [
+      "Proprieta"
+    ],
+    "nombre_utilisations": 1,
+    "lot": [
+      21,
+      23,
+      24,
+      27,
+      29,
+      33
+    ]
+  },
+  {
+    "modele": "RA250522016_H",
+    "reference_word": "gold\\MODELES\\4a688f7af0c6\\RA250522016_H.docx",
+    "sha256": "4a688f7af0c633960a6e8534c315732fa8439c3c1f73d1a8f911c0423b569d8d",
+    "original_serv": "serv\\Juin 2025\\à Corr. rabat 20_06\\RA250522016_H.doc",
+    "original_gold": "gold\\MODELES\\4a688f7af0c6\\RA250522016_H.doc",
+    "original_sha256": "402610fa099c2a61cd3a3638e9d341a53f46ea739d227671a0c7bc1c268bf795",
+    "provenance": "modèle original INDEX/serv, converti sans changement des données par Microsoft Word",
+    "types_actes": [
+      "Negativo_proprieta"
+    ],
+    "nombre_utilisations": 4,
+    "lot": [
+      21,
+      23,
+      24,
+      27,
+      29,
+      33
+    ]
+  },
+  {
+    "modele": "RA250527007_G",
+    "reference_word": "gold\\MODELES\\089274021053\\RA250527007_G.docx",
+    "sha256": "089274021053e88f87f962f2309f4023ccdd7a4ef9995077103e03cf5be7c8aa",
+    "original_serv": "serv\\a corr. rabat 02-06\\RA250527007_G.doc",
+    "original_gold": "gold\\MODELES\\089274021053\\RA250527007_G.doc",
+    "original_sha256": "83ad609fbc8d81c2900148b4856c7026d7db7a845779e1ce2c1ebbc7e9a52bf2",
+    "provenance": "modèle original INDEX/serv, converti sans changement des données par Microsoft Word",
+    "types_actes": [
+      "Certificato_scolastico"
+    ],
+    "nombre_utilisations": 1,
+    "lot": [
+      21,
+      23,
+      24,
+      27,
+      29,
+      33
+    ]
+  },
+  {
+    "modele": "RA250528009_B",
+    "reference_word": "gold\\MODELES\\02839984ea12\\RA250528009_B.docx",
+    "sha256": "02839984ea1213d6053b02d2ebb9bd6721c28d2860715025b84e65a190479b09",
+    "original_serv": "serv\\a corr. rabat 02-06\\RA250528009_B.doc",
+    "original_gold": "gold\\MODELES\\02839984ea12\\RA250528009_B.doc",
+    "original_sha256": "1bc912910001a07aef5bc66d2cd246448df3d2d60a8532ffdb1d0a8892dd6b04",
+    "provenance": "modèle original INDEX/serv, converti sans changement des données par Microsoft Word",
+    "types_actes": [
+      "Libretto_di_famiglia"
+    ],
+    "nombre_utilisations": 1,
+    "lot": [
+      21,
+      23,
+      24,
+      27,
+      29,
+      33
+    ]
+  },
+  {
+    "modele": "RA250619012",
+    "reference_word": "gold\\MODELES\\72a56f690a12\\RA250619012.docx",
+    "sha256": "72a56f690a12176b13b4088f7f9e45cdfdcbc0738f9ad287893b28e7a11ba806",
+    "original_serv": "serv\\a corr.  Rabat 27-06\\RA250619012.doc",
+    "original_gold": "gold\\MODELES\\72a56f690a12\\RA250619012.doc",
+    "original_sha256": "2ceaf743e714fe259496752c99f1ff81b1d215e95cb467debc17b9f8780acf87",
+    "provenance": "modèle original INDEX/serv, converti sans changement des données par Microsoft Word",
+    "types_actes": [
+      "Reddito"
+    ],
+    "nombre_utilisations": 3,
+    "lot": [
+      21,
+      23,
+      24,
+      27,
+      29,
+      33
+    ]
+  },
+  {
+    "modele": "RA250619020_G",
+    "reference_word": "gold\\MODELES\\51a90e9e065f\\RA250619020_G.docx",
+    "sha256": "51a90e9e065f89504feefa3d58db319b5252b0d69da723065c629c7823f94ebc",
+    "original_serv": "serv\\juillet 2025\\à corr. Rabat 07_07\\RA250619020_G.doc",
+    "original_gold": "gold\\MODELES\\51a90e9e065f\\RA250619020_G.doc",
+    "original_sha256": "556a9ac98f7c2089132b4cd7013372c85a29db9e09b25ab575ff5d7c89d86836",
+    "provenance": "modèle original INDEX/serv, converti sans changement des données par Microsoft Word",
+    "types_actes": [
+      "Presa_a_carico"
+    ],
+    "nombre_utilisations": 1,
+    "lot": [
+      21,
+      23,
+      24,
+      27,
+      29,
+      33
+    ]
+  },
+  {
+    "modele": "RA250701010_B",
+    "reference_word": "gold\\MODELES\\21a49e942ae6\\RA250701010_B.docx",
+    "sha256": "21a49e942ae6f20ee34cf563383e3da06027911ff913238748d271da43a809b1",
+    "original_serv": "serv\\a corr. Rabat 13-11\\a corr. Rabat 16-07\\RA250701010_B.doc",
+    "original_gold": "gold\\MODELES\\21a49e942ae6\\RA250701010_B.doc",
+    "original_sha256": "b0d2a60edb380e5131222575427bd5693e4dc89f278edba23613655ae855a037",
+    "provenance": "modèle original INDEX/serv, converti sans changement des données par Microsoft Word",
+    "types_actes": [
+      "Tirocinio_Rent_Guru"
+    ],
+    "nombre_utilisations": 1,
+    "lot": [
+      21,
+      23,
+      24,
+      27,
+      29,
+      33
+    ]
+  },
+  {
+    "modele": "RA250701028_H",
+    "reference_word": "gold\\MODELES\\5f076ca6874f\\RA250701028_H.docx",
+    "sha256": "5f076ca6874f14b605a6f7618f508f4b1303b544d67faf40ad95926d04fe5037",
+    "original_serv": "serv\\a corr. Rabat 13-11\\a corr. Rabat 16-07\\RA250701028_H.doc",
+    "original_gold": "gold\\MODELES\\5f076ca6874f\\RA250701028_H.doc",
+    "original_sha256": "70017fe1c750932b0c217d483343a3a031284a9e31f770739b554083e727f14e",
+    "provenance": "modèle original INDEX/serv, converti sans changement des données par Microsoft Word",
+    "types_actes": [
+      "Tirocinio_Global_Compta",
+      "Tirocinio_New_Fid"
+    ],
+    "nombre_utilisations": 3,
+    "lot": [
+      21,
+      23,
+      24,
+      27,
+      29,
+      33
+    ]
+  },
+  {
+    "modele": "RA250702005_E",
+    "reference_word": "gold\\MODELES\\3f80cbb4cd60\\RA250702005_E.docx",
+    "sha256": "3f80cbb4cd60a133758a885a384efc8ad263b1cc3d86af50e6c361bd3edfea93",
+    "original_serv": "serv\\a corr. Rabat 23-07\\RA250702005_E.doc",
+    "original_gold": "gold\\MODELES\\3f80cbb4cd60\\RA250702005_E.doc",
+    "original_sha256": "a7c46ce9c9563810b815407ad09cf0a8e82ca277d20d2198ea20223f0d6772a3",
+    "provenance": "modèle original INDEX/serv, converti sans changement des données par Microsoft Word",
+    "types_actes": [
+      "Dichiarazione_rapporti_bancari"
+    ],
+    "nombre_utilisations": 1,
+    "lot": [
+      21,
+      23,
+      24,
+      27,
+      29,
+      33
+    ]
+  },
+  {
+    "modele": "RA250729008_C",
+    "reference_word": "gold\\MODELES\\f54e48eba2f5\\RA250729008_C.docx",
+    "sha256": "f54e48eba2f5c16310a8ffecef3744666a98e7087c6e669126ab979c79bd257f",
+    "original_serv": "serv\\à corr. Rabat 01_09\\RA250729008_C.doc",
+    "original_gold": "gold\\MODELES\\f54e48eba2f5\\RA250729008_C.doc",
+    "original_sha256": "7e09f3dac00b8d146ec33c073f2b0b1a360870dd1a24a847401e1d73a3e977be",
+    "provenance": "modèle original INDEX/serv, converti sans changement des données par Microsoft Word",
+    "types_actes": [
+      "Parentela"
+    ],
+    "nombre_utilisations": 1,
+    "lot": [
+      21,
+      23,
+      24,
+      27,
+      29,
+      33
+    ]
+  },
+  {
+    "modele": "RA250804013_E",
+    "reference_word": "gold\\MODELES\\d93bf2586aeb\\RA250804013_E.docx",
+    "sha256": "d93bf2586aebebb6068fc7683cbf4690be3f25b3e39071e4c55ec30809d80467",
+    "original_serv": "serv\\a corr. Rabat 03-09\\RA250804013_E.doc",
+    "original_gold": "gold\\MODELES\\d93bf2586aeb\\RA250804013_E.doc",
+    "original_sha256": "bd61371fae2cc0cadcbae123c67b95657dd252c865679eee837f36fe247b5937",
+    "provenance": "modèle original INDEX/serv, converti sans changement des données par Microsoft Word",
+    "types_actes": [
+      "Proprieta"
+    ],
+    "nombre_utilisations": 3,
+    "lot": [
+      21,
+      23,
+      24,
+      27,
+      29,
+      33
+    ]
+  },
+  {
+    "modele": "RA250813003_A",
+    "reference_word": "gold\\MODELES\\b7dc48166df3\\RA250813003_A.docx",
+    "sha256": "b7dc48166df336ca7f20d8e907cf11203d10739f2800538b6b8cfc78f36f543f",
+    "original_serv": "serv\\a corr. Rabat 03-09\\RA250813003_A.doc",
+    "original_gold": "gold\\MODELES\\b7dc48166df3\\RA250813003_A.doc",
+    "original_sha256": "558ce1bfc84b7c78f3bc09cc761594267117b45c3d46a1b2390cc446b0266da7",
+    "provenance": "modèle original INDEX/serv, converti sans changement des données par Microsoft Word",
+    "types_actes": [
+      "Estratto_nascita"
+    ],
+    "nombre_utilisations": 1,
+    "lot": [
+      21,
+      23,
+      24,
+      27,
+      29,
+      33
+    ]
+  },
+  {
+    "modele": "RA250822019-D",
+    "reference_word": "gold\\MODELES\\8e7e00487d8e\\RA250822019-D.docx",
+    "sha256": "8e7e00487d8ef1cd0be0e1f34e343b26d5bdec1280f1abed87f590144991f368",
+    "original_serv": "serv\\Aout 2025\\à corr. Rabat 28_08\\RA250822019-D.doc",
+    "original_gold": "gold\\MODELES\\8e7e00487d8e\\RA250822019-D.doc",
+    "original_sha256": "70d037301fbbac6e6e060cfbc0a5c4ad190c875c59a6b74414dc131c5627f5c2",
+    "provenance": "modèle original INDEX/serv, converti sans changement des données par Microsoft Word",
+    "types_actes": [
+      "Estratto_decesso"
+    ],
+    "nombre_utilisations": 1,
+    "lot": [
+      21,
+      23,
+      24,
+      27,
+      29,
+      33
+    ]
+  },
+  {
+    "modele": "RA250828022_D",
+    "reference_word": "gold\\MODELES\\5996f80d23fa\\RA250828022_D.docx",
+    "sha256": "5996f80d23fa1becb7bbf2332b97a494909e053a845adb3e7bb29387ceb3ac73",
+    "original_serv": "serv\\a corr. Rabat 12-09\\à corr. Rabat 11_09\\RA250828022_D.doc",
+    "original_gold": "gold\\MODELES\\5996f80d23fa\\RA250828022_D.doc",
+    "original_sha256": "ee1233e652837182074549a9ab1490fe2753ef3735341c628be4486b1c901baa",
+    "provenance": "modèle original INDEX/serv, converti sans changement des données par Microsoft Word",
+    "types_actes": [
+      "Parentela"
+    ],
+    "nombre_utilisations": 1,
+    "lot": [
+      21,
+      23,
+      24,
+      27,
+      29,
+      33
+    ]
+  },
+  {
+    "modele": "RA251001012-B",
+    "reference_word": "gold\\MODELES\\8d84b4e5fd2c\\RA251001012-B.docx",
+    "sha256": "8d84b4e5fd2c7dcd95a9438570de02e29c95cf587a87e0b7e7efa5a060002443",
+    "original_serv": "serv\\Ottobre 2025\\à corr. Rabat 14_10\\RA251001012-B.doc",
+    "original_gold": "gold\\MODELES\\8d84b4e5fd2c\\RA251001012-B.doc",
+    "original_sha256": "4d5454c9948f4348f41e95f6a1a74cc86e0ecc20a3d97f39ff4a5ff87367a3c2",
+    "provenance": "modèle original INDEX/serv, converti sans changement des données par Microsoft Word",
+    "types_actes": [
+      "Libretto_di_famiglia"
+    ],
+    "nombre_utilisations": 1,
+    "lot": [
+      21,
+      23,
+      24,
+      27,
+      29,
+      33
+    ]
+  },
+  {
+    "modele": "RA251001012-C",
+    "reference_word": "gold\\MODELES\\d16593ee7eee\\RA251001012-C.docx",
+    "sha256": "d16593ee7eee19b5ed05bd565371d68eabb2d0d905ed0e7bed7a1267f43d1208",
+    "original_serv": "serv\\Ottobre 2025\\à corr. Rabat 14_10\\RA251001012-C.doc",
+    "original_gold": "gold\\MODELES\\d16593ee7eee\\RA251001012-C.doc",
+    "original_sha256": "00c83a03c5732803652110dfda99b5ca9c20ef0f0f3b57f2e6bd048025a9b988",
+    "provenance": "modèle original INDEX/serv, converti sans changement des données par Microsoft Word",
+    "types_actes": [
+      "Esistenza_in_vita"
+    ],
+    "nombre_utilisations": 3,
+    "lot": [
+      21,
+      23,
+      24,
+      27,
+      29,
+      33
+    ]
+  },
+  {
+    "modele": "RA251015001_A",
+    "reference_word": "gold\\MODELES\\5ffb5f385084\\RA251015001_A.docx",
+    "sha256": "5ffb5f385084af35c70cdaf83df977161bfe5f83f3f333cff9664e02eaeaa75f",
+    "original_serv": "serv\\Ottobre 2025\\à corr. Rabat 28_10\\RA251015001_A.doc",
+    "original_gold": "gold\\MODELES\\5ffb5f385084\\RA251015001_A.doc",
+    "original_sha256": "a754a470ece05b1b9362dca6da47377f3f0a7fdaf39cf158ad285b02d27df0e6",
+    "provenance": "modèle original INDEX/serv, converti sans changement des données par Microsoft Word",
+    "types_actes": [
+      "Reddito"
+    ],
+    "nombre_utilisations": 3,
+    "lot": [
+      21,
+      23,
+      24,
+      27,
+      29,
+      33
+    ]
+  }
+]

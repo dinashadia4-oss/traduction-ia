@@ -1,0 +1,346 @@
+[
+  {
+    "pdf": 11,
+    "acte": 1,
+    "type": "Presa a carico",
+    "modele": "RA250619020_G",
+    "reference_sha256": "156718eb07e1cbd58f4923f5f21d602854f190aa6f1d2dd9ebc97332794ab9f4",
+    "word": "WORD_TRADUITS\\11\\01_ABDELLAOUI_Farid_-_ABDELLAOUI_Zakaryae_Presa_a_carico.docx"
+  },
+  {
+    "pdf": 11,
+    "acte": 2,
+    "type": "Esistenza in vita collettiva",
+    "modele": "RA241018002_E",
+    "reference_sha256": "6e6f53f2fb5fc2bbf6de2233164e353991b069bb17b8c538b8f6795211df2d66",
+    "word": "WORD_TRADUITS\\11\\02_ABDELLAOUI_Abdelghani_Mohammed_Farid_Zakaryae_Ouassila_Fatimazh_rae_Esistenza_in_vita_collettiva.docx"
+  },
+  {
+    "pdf": 11,
+    "acte": 3,
+    "type": "Legame di parentela",
+    "modele": "CA250616014-F",
+    "reference_sha256": "af074788a54f39e92284dd5da1cd28f4fe691a1697489a1728f25f4f405d6264",
+    "word": "WORD_TRADUITS\\11\\03_ABDELLAOUI_Zakaryae_Legame_di_parentela.docx"
+  },
+  {
+    "pdf": 11,
+    "acte": 4,
+    "type": "Libretto di famiglia",
+    "modele": "RA251027008-A",
+    "reference_sha256": "90f923883e66d352e46da6f109117078fc2e9b750ec493fb8459f1a64302f3fc",
+    "word": "WORD_TRADUITS\\11\\04_ABDELLAOUI_Abdelhamid_Libretto_di_famiglia.docx"
+  },
+  {
+    "pdf": 15,
+    "acte": 1,
+    "type": "Attestato del baccalaureato",
+    "modele": "RA250815003_C",
+    "reference_sha256": "a90c040bbc74596c211bac2e0e0e01b06172cb6abf05fb7d93ae7567fd8396d0",
+    "word": "WORD_TRADUITS\\15\\01_EL_ABBADI_Fadwa_Attestato_del_baccalaureato.docx"
+  },
+  {
+    "pdf": 15,
+    "acte": 2,
+    "type": "Pagella del baccalaureato",
+    "modele": "RA250815003_D",
+    "reference_sha256": "1c3146482b21bc9272620d1506cbfc5dbb95adcdd292254a3f696a9e7e7afa51",
+    "word": "WORD_TRADUITS\\15\\02_EL_ABBADI_Fadwa_Pagella_del_baccalaureato.docx"
+  },
+  {
+    "pdf": 15,
+    "acte": 3,
+    "type": "Pagella IFPP secondo anno",
+    "modele": "RA250701024_F",
+    "reference_sha256": "fadeb608a6496819476bb91611d03f2c4193ba881ec6659b99b4a6ce67d43ba0",
+    "word": "WORD_TRADUITS\\15\\03_EL_ABBADI_Fadwa_Pagella_IFPP_secondo_anno.docx"
+  },
+  {
+    "pdf": 15,
+    "acte": 4,
+    "type": "Pagella IFPP terzo anno",
+    "modele": "RA250701024_E",
+    "reference_sha256": "f965d62a4f0ea219962ece2bbada0131ed5a06c13f3403295f4fd85fd8a091f3",
+    "word": "WORD_TRADUITS\\15\\04_EL_ABBADI_Fadwa_Pagella_IFPP_terzo_anno.docx"
+  },
+  {
+    "pdf": 15,
+    "acte": 5,
+    "type": "Riepilogo voti IFPP",
+    "modele": "RA250701024_E",
+    "reference_sha256": "f965d62a4f0ea219962ece2bbada0131ed5a06c13f3403295f4fd85fd8a091f3",
+    "word": "WORD_TRADUITS\\15\\05_EL_ABBADI_Fadwa_Riepilogo_voti_IFPP.docx"
+  },
+  {
+    "pdf": 15,
+    "acte": 6,
+    "type": "Pagella IFPP primo anno",
+    "modele": "RA250701024_D",
+    "reference_sha256": "2652388e1fd834cf68cfc5bc31a9cbed03463a6eb8c1f3223ab0bf37e775178b",
+    "word": "WORD_TRADUITS\\15\\06_EL_ABBADI_Fadwa_Pagella_IFPP_primo_anno.docx"
+  },
+  {
+    "pdf": 15,
+    "acte": 7,
+    "type": "Diploma di tecnico specializzato IFPP",
+    "modele": "RA241120004",
+    "reference_sha256": "fbcd1b3f6488ef25c03336d3d4139533380afd409b953ece85cc6a4bf6b70395",
+    "word": "WORD_TRADUITS\\15\\07_EL_ABBADI_Fadwa_Diploma_di_tecnico_specializzato_IFPP.docx"
+  },
+  {
+    "pdf": 15,
+    "acte": 8,
+    "type": "Programma di formazione IFPP",
+    "modele": "RA221226003_A à voir",
+    "reference_sha256": "de7621ab5424472edccbd5bae81735a925d1f8c5ebd8bfdfa1f341182d9061fe",
+    "word": "WORD_TRADUITS\\15\\08_EL_ABBADI_Fadwa_Programma_di_formazione_IFPP.docx"
+  },
+  {
+    "pdf": 16,
+    "acte": 1,
+    "type": "Legame di parentela",
+    "modele": "CA250616014-F",
+    "reference_sha256": "af074788a54f39e92284dd5da1cd28f4fe691a1697489a1728f25f4f405d6264",
+    "word": "WORD_TRADUITS\\16\\01_SIOUAH_Saadia_-_OUAHDANI_Aziz_Legame_di_parentela.docx"
+  },
+  {
+    "pdf": 16,
+    "acte": 2,
+    "type": "Carico familiare",
+    "modele": "RA251001016-B",
+    "reference_sha256": "5bf6d69d96f0a5a6d32689a321ab8fff99b83b44d7c0cf6ff65789bd8ecb072d",
+    "word": "WORD_TRADUITS\\16\\02_OUAHDANI_Aziz_-_SIOUAH_Saadia_Carico_familiare.docx"
+  },
+  {
+    "pdf": 16,
+    "acte": 3,
+    "type": "Estratto atto di nascita",
+    "modele": "RA240529001_A",
+    "reference_sha256": "a7929f8c23b22b5b104b77d191977a5c20808b316e03b3f3484341ba0ed589dc",
+    "word": "WORD_TRADUITS\\16\\03_SIOUAH_Saadia_Estratto_atto_di_nascita.docx"
+  },
+  {
+    "pdf": 16,
+    "acte": 4,
+    "type": "Concordanza dei nomi",
+    "modele": "ATTESTATO DI CONCORDANZA  DEI NOMI",
+    "reference_sha256": "e892cd0fd4cc23dd1a38765555d7c7094ac1386f2110d37cec84197b86e7a5a4",
+    "word": "WORD_TRADUITS\\16\\04_SIOUAH_Saadia_Concordanza_dei_nomi.docx"
+  },
+  {
+    "pdf": 16,
+    "acte": 5,
+    "type": "Libretto di famiglia",
+    "modele": "RA251027008-A",
+    "reference_sha256": "90f923883e66d352e46da6f109117078fc2e9b750ec493fb8459f1a64302f3fc",
+    "word": "WORD_TRADUITS\\16\\05_OUAHDANI_Abdelmajid_Libretto_di_famiglia.docx"
+  },
+  {
+    "pdf": 17,
+    "acte": 1,
+    "type": "Pagella_Baccalaureato",
+    "modele": "RA240919016_B",
+    "reference_sha256": "b27cbf43fd4302725ebaa6e436df500faf1246d333987a086697545b2e92d12e",
+    "word": "WORD_TRADUITS\\17\\01_ZAOUIA_Zakaria_Pagella_Baccalaureato.docx"
+  },
+  {
+    "pdf": 17,
+    "acte": 2,
+    "type": "Parentela",
+    "modele": "RA250930019_B",
+    "reference_sha256": "ed1700e356252757b384603aa6507a4fa83404e47b707db498e362704126f1c8",
+    "word": "WORD_TRADUITS\\17\\02_ZAOUIA_Mohammed_-_ZAOUIA_Zakaria_Parentela.docx"
+  },
+  {
+    "pdf": 17,
+    "acte": 3,
+    "type": "Libretto_di_famiglia",
+    "modele": "RA251001012-B",
+    "reference_sha256": "2be4bc01803b8c0e9334316d4a8276306647b1cb8e1e23b72b991d846af432a7",
+    "word": "WORD_TRADUITS\\17\\03_ZAOUIA_Larbi_Libretto_di_famiglia.docx"
+  },
+  {
+    "pdf": 17,
+    "acte": 4,
+    "type": "Esistenza_in_vita",
+    "modele": "RA251001012-C",
+    "reference_sha256": "60abf5559ae03394ea82aed6461fb6d182e6eaa509219318900e93293cebf178",
+    "word": "WORD_TRADUITS\\17\\04_ZAOUIA_Mohammed_Zakaria_Esistenza_in_vita.docx"
+  },
+  {
+    "pdf": 17,
+    "acte": 5,
+    "type": "Copia_integrale_nascita",
+    "modele": "RA240304006_B",
+    "reference_sha256": "fdb8ef46ceeaa0a0398abfbfb8db5228d6c124ea387a1584c580016f1395ec45",
+    "word": "WORD_TRADUITS\\17\\05_ZAOUIA_Zakaria_Copia_integrale_nascita.docx"
+  },
+  {
+    "pdf": 17,
+    "acte": 6,
+    "type": "Estratto_decesso",
+    "modele": "RA250908006_E",
+    "reference_sha256": "19d5c968734d6c9933284cabb15a3be1852bafde17c7a0d249131ce9401962b7",
+    "word": "WORD_TRADUITS\\17\\06_ZAOUIA_Larbi_Estratto_decesso.docx"
+  },
+  {
+    "pdf": 18,
+    "acte": 1,
+    "type": "Reddito",
+    "modele": "RA250804020-B",
+    "reference_sha256": "fad3f5b1a30390f4fbb780e10eea1cd9b2b553d9520d03fcf64925e24ad7df1d",
+    "word": "WORD_TRADUITS\\18\\01_EN-NAYRY_Lahcen_Reddito.docx"
+  },
+  {
+    "pdf": 18,
+    "acte": 2,
+    "type": "Copia_integrale_nascita",
+    "modele": "RA250212004_B",
+    "reference_sha256": "f4638082a9abe6c19f96c0b6ef5affbebe5a0899157ec054988599b4c71aaa78",
+    "word": "WORD_TRADUITS\\18\\02_EN-NAYRY_Oussama_Copia_integrale_nascita.docx"
+  },
+  {
+    "pdf": 18,
+    "acte": 3,
+    "type": "Lavoro",
+    "modele": "RA250804020-D",
+    "reference_sha256": "0453cd3444046112135c800702ad19db6ec0e36921b38d9ca6071e1657af9910",
+    "word": "WORD_TRADUITS\\18\\03_EN-NAYRY_Lahcen_Lavoro.docx"
+  },
+  {
+    "pdf": 18,
+    "acte": 4,
+    "type": "Parentela",
+    "modele": "RA250729008_C",
+    "reference_sha256": "704bf06ba16babacd9c45a608111fba3aff2d207f95e1d5ac37003a152da6f37",
+    "word": "WORD_TRADUITS\\18\\04_MARNICH_Zahra_-_EN-NAYRY_Oussama_Parentela.docx"
+  },
+  {
+    "pdf": 18,
+    "acte": 5,
+    "type": "Presa_a_carico",
+    "modele": "RA250729008_A",
+    "reference_sha256": "8bd8558ebd8ac759588a4e63a9a49316419a54a266ba0b08b8e13a80aa986970",
+    "word": "WORD_TRADUITS\\18\\05_MARNICH_Zahra_-_EN-NAYRY_Oussama_Presa_a_carico.docx"
+  },
+  {
+    "pdf": 18,
+    "acte": 6,
+    "type": "Parentela",
+    "modele": "RA250729008_C",
+    "reference_sha256": "704bf06ba16babacd9c45a608111fba3aff2d207f95e1d5ac37003a152da6f37",
+    "word": "WORD_TRADUITS\\18\\06_EN-NAYRY_Lahcen_-_EN-NAYRY_Oussama_Parentela.docx"
+  },
+  {
+    "pdf": 18,
+    "acte": 7,
+    "type": "Esistenza_in_vita",
+    "modele": "RA250530012_C",
+    "reference_sha256": "62082e4c6297e937fe5fe928ac217df36c4ba0726b46eebea4e7deb526cb25d2",
+    "word": "WORD_TRADUITS\\18\\07_EN-NAYRY_Oussama_Achraf_Adam_Esistenza_in_vita.docx"
+  },
+  {
+    "pdf": 18,
+    "acte": 8,
+    "type": "Libretto_di_famiglia",
+    "modele": "RA251001012-B",
+    "reference_sha256": "2be4bc01803b8c0e9334316d4a8276306647b1cb8e1e23b72b991d846af432a7",
+    "word": "WORD_TRADUITS\\18\\08_EN-NAYRY_Lahcen_Libretto_di_famiglia.docx"
+  },
+  {
+    "pdf": 18,
+    "acte": 9,
+    "type": "Presa_a_carico",
+    "modele": "RA250729008_A",
+    "reference_sha256": "8bd8558ebd8ac759588a4e63a9a49316419a54a266ba0b08b8e13a80aa986970",
+    "word": "WORD_TRADUITS\\18\\09_EN-NAYRY_Lahcen_-_EN-NAYRY_Oussama_Presa_a_carico.docx"
+  },
+  {
+    "pdf": 19,
+    "acte": 1,
+    "type": "Esistenza_in_vita",
+    "modele": "RA251001012-C",
+    "reference_sha256": "60abf5559ae03394ea82aed6461fb6d182e6eaa509219318900e93293cebf178",
+    "word": "WORD_TRADUITS\\19\\01_BENFTOUH_Karima_Mohamed_Ayoub_Zineb_Chaimae_Safae_Hanae_Esistenza_in_vita.docx"
+  },
+  {
+    "pdf": 19,
+    "acte": 2,
+    "type": "Copia_integrale_nascita",
+    "modele": "RA240304006_B",
+    "reference_sha256": "fdb8ef46ceeaa0a0398abfbfb8db5228d6c124ea387a1584c580016f1395ec45",
+    "word": "WORD_TRADUITS\\19\\02_BENFTOUH_Zineb_Copia_integrale_nascita.docx"
+  },
+  {
+    "pdf": 19,
+    "acte": 3,
+    "type": "Parentela",
+    "modele": "RA250723020-C",
+    "reference_sha256": "9557b3e394f3cf011ed7fe2e35a4f3ae45420ad40d90a8b5fbc0c1c6635beb7b",
+    "word": "WORD_TRADUITS\\19\\03_BENFTOUH_Zineb_-_BENFTOUH_El_Mostafa_Parentela.docx"
+  },
+  {
+    "pdf": 19,
+    "acte": 4,
+    "type": "Presa_a_carico",
+    "modele": "RA250619020_G",
+    "reference_sha256": "006b732f34b666d72cbe0d7577291675b3385ddec1471ae18b9f2e3a05819f26",
+    "word": "WORD_TRADUITS\\19\\04_BENFTOUH_El_Mostafa_-_BENFTOUH_Zineb_Presa_a_carico.docx"
+  },
+  {
+    "pdf": 19,
+    "acte": 5,
+    "type": "Libretto_di_famiglia",
+    "modele": "RA251001012-B",
+    "reference_sha256": "2be4bc01803b8c0e9334316d4a8276306647b1cb8e1e23b72b991d846af432a7",
+    "word": "WORD_TRADUITS\\19\\05_BENFTOUH_El_Mostafa_Libretto_di_famiglia.docx"
+  },
+  {
+    "pdf": 20,
+    "acte": 1,
+    "type": "Proprieta",
+    "modele": "RA251009011-A",
+    "reference_sha256": "1d51e3f1867aad2bd4c22487a65898784edd785d0ce11dd5ac84e68c51bb4113",
+    "word": "WORD_TRADUITS\\20\\01_ZAOUIA_Mohammed_-_ZAOUIA_Zakaria_Proprieta.docx"
+  },
+  {
+    "pdf": 20,
+    "acte": 2,
+    "type": "Tirocinio_HASHTAG",
+    "modele": "RA250912008_P",
+    "reference_sha256": "87bc1149cc9687feee42b349903e75d0ec6bbf8acab4c67b91b83c85888bea59",
+    "word": "WORD_TRADUITS\\20\\02_ZAOUIA_Zakaria_Tirocinio_HASHTAG.docx"
+  },
+  {
+    "pdf": 20,
+    "acte": 3,
+    "type": "Pagella_HASHTAG",
+    "modele": "RA251001005-C",
+    "reference_sha256": "eaab0fbd937030ccb6b7450359c6a1abfa5eed327aa295614096c6c9e031ec56",
+    "word": "WORD_TRADUITS\\20\\03_ZAOUIA_Zakaria_Pagella_HASHTAG.docx"
+  },
+  {
+    "pdf": 20,
+    "acte": 4,
+    "type": "Diploma_HASHTAG",
+    "modele": "RA250718007_B",
+    "reference_sha256": "f210aea5b135b717988ed117f8dc2ca27554d00eac2731d1dc34e1cdc74a7d2f",
+    "word": "WORD_TRADUITS\\20\\04_ZAOUIA_Zakaria_Diploma_HASHTAG.docx"
+  },
+  {
+    "pdf": 20,
+    "acte": 5,
+    "type": "Diploma_OFPPT",
+    "modele": "RA250523004_B",
+    "reference_sha256": "90f3ba4ae2184dce811d4eae5437f4dd13687f53b227b8fdb32e79c620b69ede",
+    "word": "WORD_TRADUITS\\20\\05_ZAOUIA_Zakaria_Diploma_OFPPT.docx"
+  },
+  {
+    "pdf": 20,
+    "acte": 6,
+    "type": "Pagella_OFPPT",
+    "modele": "RA240827004_U",
+    "reference_sha256": "942c2fcaf5e5c2e5913a96a76ea73ad5784eed5d22640741bf2fd8ee98563a3c",
+    "word": "WORD_TRADUITS\\20\\06_ZAOUIA_Zakaria_Pagella_OFPPT.docx"
+  }
+]

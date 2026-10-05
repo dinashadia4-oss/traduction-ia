@@ -1,0 +1,1225 @@
+[
+  {
+    "pdf": "10",
+    "word": "WORD_TRADUITS\\10\\01_HAKKI_Mustapha_Notifica_identificativo_fiscale.docx",
+    "gold": "gold\\exemples_traduits\\10\\01_HAKKI_Mustapha_Notifica_identificativo_fiscale.docx",
+    "sha256": "5e45507d650ac5e09600cbfe6e7317647cccba1718b2b2d463f440aa7a23d3a8",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "10",
+    "word": "WORD_TRADUITS\\10\\02_HAKKI_Mustapha_Cifra_affari.docx",
+    "gold": "gold\\exemples_traduits\\10\\02_HAKKI_Mustapha_Cifra_affari.docx",
+    "sha256": "c44e83344df67d1d153ef587ae4d4825212cbb1c259992deccab466272243a0f",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "10",
+    "word": "WORD_TRADUITS\\10\\03_HAKKI_Mustapha_Regolarita_fiscale.docx",
+    "gold": "gold\\exemples_traduits\\10\\03_HAKKI_Mustapha_Regolarita_fiscale.docx",
+    "sha256": "36e1e81486e75cd5fd9e46c073ff7acb4a4b5a6e5032e644f95500ebd7eb075e",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "10",
+    "word": "WORD_TRADUITS\\10\\04_HAKKI_Mustapha_Iscrizione_tassa_professionale.docx",
+    "gold": "gold\\exemples_traduits\\10\\04_HAKKI_Mustapha_Iscrizione_tassa_professionale.docx",
+    "sha256": "f4ccf9fd8746c9c642e53e7fddfc7b9ce1dfafb8251f4a2a8aad7f17ae0b44e7",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "11",
+    "word": "WORD_TRADUITS\\11\\01_ABDELLAOUI_Farid_-_ABDELLAOUI_Zakaryae_Presa_a_carico.docx",
+    "gold": "gold\\exemples_traduits\\11\\01_ABDELLAOUI_Farid_-_ABDELLAOUI_Zakaryae_Presa_a_carico.docx",
+    "sha256": "22e6bb90eb520efdcaa85e234eb4fa91e4fb602eabbdc97fd77a9c222054fba0",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "11",
+    "word": "WORD_TRADUITS\\11\\02_ABDELLAOUI_Abdelghani_Mohammed_Farid_Zakaryae_Ouassila_Fatimazh_rae_Esistenza_in_vita_collettiva.docx",
+    "gold": "gold\\exemples_traduits\\11\\02_ABDELLAOUI_Abdelghani_Mohammed_Farid_Zakaryae_Ouassila_Fatimazh_rae_Esistenza_in_vita_collettiva.docx",
+    "sha256": "30635b31f654fcdc935854c5b43d4c860fb37a82ce95b3632455751ff78fb832",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "11",
+    "word": "WORD_TRADUITS\\11\\03_ABDELLAOUI_Zakaryae_Legame_di_parentela.docx",
+    "gold": "gold\\exemples_traduits\\11\\03_ABDELLAOUI_Zakaryae_Legame_di_parentela.docx",
+    "sha256": "fbb4974db7d7c3959b335ccf82388f2b6d478a03ff6e014c98073fc13a01e494",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "11",
+    "word": "WORD_TRADUITS\\11\\04_ABDELLAOUI_Abdelhamid_Libretto_di_famiglia.docx",
+    "gold": "gold\\exemples_traduits\\11\\04_ABDELLAOUI_Abdelhamid_Libretto_di_famiglia.docx",
+    "sha256": "b68e7c83665f2151b64f60600f9fcbbcaa48b79c8da84c1d01d422b84ad51756",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "15",
+    "word": "WORD_TRADUITS\\15\\01_EL_ABBADI_Fadwa_Attestato_del_baccalaureato.docx",
+    "gold": "gold\\exemples_traduits\\15\\01_EL_ABBADI_Fadwa_Attestato_del_baccalaureato.docx",
+    "sha256": "7069bef1ac275d812fe46801f91ec897d318f2736565b00e9655623428a2d64d",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "15",
+    "word": "WORD_TRADUITS\\15\\02_EL_ABBADI_Fadwa_Pagella_del_baccalaureato.docx",
+    "gold": "gold\\exemples_traduits\\15\\02_EL_ABBADI_Fadwa_Pagella_del_baccalaureato.docx",
+    "sha256": "f403e81a3b4b3247e7fccbcb8cffb00d0e9e42c0dda59330ac364d688cf917af",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "15",
+    "word": "WORD_TRADUITS\\15\\03_EL_ABBADI_Fadwa_Pagella_IFPP_secondo_anno.docx",
+    "gold": "gold\\exemples_traduits\\15\\03_EL_ABBADI_Fadwa_Pagella_IFPP_secondo_anno.docx",
+    "sha256": "4d7cdd6933d512c069215c34cf37fe69a7a7ac0d6b95071201a50ea81436dbbe",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "15",
+    "word": "WORD_TRADUITS\\15\\04_EL_ABBADI_Fadwa_Pagella_IFPP_terzo_anno.docx",
+    "gold": "gold\\exemples_traduits\\15\\04_EL_ABBADI_Fadwa_Pagella_IFPP_terzo_anno.docx",
+    "sha256": "8720dbd773c44cacc8fcaa151687ef6265a985ffe3805f28f1e045c87068423d",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "15",
+    "word": "WORD_TRADUITS\\15\\05_EL_ABBADI_Fadwa_Riepilogo_voti_IFPP.docx",
+    "gold": "gold\\exemples_traduits\\15\\05_EL_ABBADI_Fadwa_Riepilogo_voti_IFPP.docx",
+    "sha256": "a2abe6dc7a3f86a9bf0a93c5426ab121f09ffdbde49bba6bae8944f8a386b1e0",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "15",
+    "word": "WORD_TRADUITS\\15\\06_EL_ABBADI_Fadwa_Pagella_IFPP_primo_anno.docx",
+    "gold": "gold\\exemples_traduits\\15\\06_EL_ABBADI_Fadwa_Pagella_IFPP_primo_anno.docx",
+    "sha256": "72002b3f7f3642bc9849c2a795b00c653494994330c98ea2e02e5692ab6089b2",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "15",
+    "word": "WORD_TRADUITS\\15\\07_EL_ABBADI_Fadwa_Diploma_di_tecnico_specializzato_IFPP.docx",
+    "gold": "gold\\exemples_traduits\\15\\07_EL_ABBADI_Fadwa_Diploma_di_tecnico_specializzato_IFPP.docx",
+    "sha256": "9937f50988576b7e1c6ec160c5b9d45277c4af9298eb673d320b75c0fbe00d57",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "15",
+    "word": "WORD_TRADUITS\\15\\08_EL_ABBADI_Fadwa_Programma_di_formazione_IFPP.docx",
+    "gold": "gold\\exemples_traduits\\15\\08_EL_ABBADI_Fadwa_Programma_di_formazione_IFPP.docx",
+    "sha256": "98e32f84bf504407f955d92655a44c6846e544a46c0f2c6c230bcb025f5b50f1",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "16",
+    "word": "WORD_TRADUITS\\16\\01_SIOUAH_Saadia_-_OUAHDANI_Aziz_Legame_di_parentela.docx",
+    "gold": "gold\\exemples_traduits\\16\\01_SIOUAH_Saadia_-_OUAHDANI_Aziz_Legame_di_parentela.docx",
+    "sha256": "14de7b3a85d71d0a468d9725d4c19dd816df296e38334ad04c27952d6dbbd5fd",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "16",
+    "word": "WORD_TRADUITS\\16\\02_OUAHDANI_Aziz_-_SIOUAH_Saadia_Carico_familiare.docx",
+    "gold": "gold\\exemples_traduits\\16\\02_OUAHDANI_Aziz_-_SIOUAH_Saadia_Carico_familiare.docx",
+    "sha256": "6dc6c35a3bbdf7bc8bc953aef69e00e35e6fea711cb367ef931b38de64d74030",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "16",
+    "word": "WORD_TRADUITS\\16\\03_SIOUAH_Saadia_Estratto_atto_di_nascita.docx",
+    "gold": "gold\\exemples_traduits\\16\\03_SIOUAH_Saadia_Estratto_atto_di_nascita.docx",
+    "sha256": "f26df69f9504408d5a9d8e97cb8a2fcfec18f99f0bdacd8a2466c50422dab227",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "16",
+    "word": "WORD_TRADUITS\\16\\04_SIOUAH_Saadia_Concordanza_dei_nomi.docx",
+    "gold": "gold\\exemples_traduits\\16\\04_SIOUAH_Saadia_Concordanza_dei_nomi.docx",
+    "sha256": "6e1177462cdc170d7fd18ecd478ea4e54ba2456c6c9d381bc55f529e31994351",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "16",
+    "word": "WORD_TRADUITS\\16\\05_OUAHDANI_Abdelmajid_Libretto_di_famiglia.docx",
+    "gold": "gold\\exemples_traduits\\16\\05_OUAHDANI_Abdelmajid_Libretto_di_famiglia.docx",
+    "sha256": "bb5c65e567359d1e8fd75158d23bfe9cd62cf87fb323095709268204447f3b43",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "17",
+    "word": "WORD_TRADUITS\\17\\01_ZAOUIA_Zakaria_Pagella_Baccalaureato.docx",
+    "gold": "gold\\exemples_traduits\\17\\01_ZAOUIA_Zakaria_Pagella_Baccalaureato.docx",
+    "sha256": "3828f8c0f842ea13bbb432434891a8a565a3a7e5f19f5aec2e332718b303c09c",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "17",
+    "word": "WORD_TRADUITS\\17\\02_ZAOUIA_Mohammed_-_ZAOUIA_Zakaria_Parentela.docx",
+    "gold": "gold\\exemples_traduits\\17\\02_ZAOUIA_Mohammed_-_ZAOUIA_Zakaria_Parentela.docx",
+    "sha256": "a07e9055d31da73a815f3ef17a1dd66280937d9ed893c95a10265f479022a6e2",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "17",
+    "word": "WORD_TRADUITS\\17\\03_ZAOUIA_Larbi_Libretto_di_famiglia.docx",
+    "gold": "gold\\exemples_traduits\\17\\03_ZAOUIA_Larbi_Libretto_di_famiglia.docx",
+    "sha256": "71b04fe3b457c42a84c17d554ff751d8e41de4c0563e0e0f71455ee3637bd8a5",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "17",
+    "word": "WORD_TRADUITS\\17\\04_ZAOUIA_Mohammed_Zakaria_Esistenza_in_vita.docx",
+    "gold": "gold\\exemples_traduits\\17\\04_ZAOUIA_Mohammed_Zakaria_Esistenza_in_vita.docx",
+    "sha256": "13b75c888fe46c590ab0de120355658585812841b0de8caa92893bce4c635e29",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "17",
+    "word": "WORD_TRADUITS\\17\\05_ZAOUIA_Zakaria_Copia_integrale_nascita.docx",
+    "gold": "gold\\exemples_traduits\\17\\05_ZAOUIA_Zakaria_Copia_integrale_nascita.docx",
+    "sha256": "280df3638b5197bc6ca7f0b6aadc07197c70b1e451cb19a281b45a5d0fb5dfad",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "17",
+    "word": "WORD_TRADUITS\\17\\06_ZAOUIA_Larbi_Estratto_decesso.docx",
+    "gold": "gold\\exemples_traduits\\17\\06_ZAOUIA_Larbi_Estratto_decesso.docx",
+    "sha256": "473d5a43cd8274ccd42e1d9bf519da2aebe6c286b6047e37923bcc4616ed8856",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "18",
+    "word": "WORD_TRADUITS\\18\\01_EN-NAYRY_Lahcen_Reddito.docx",
+    "gold": "gold\\exemples_traduits\\18\\01_EN-NAYRY_Lahcen_Reddito.docx",
+    "sha256": "2108c3f5685dfd9647570e771bb0d9997baa61a5459a17bddf7e75700d4e4b93",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "18",
+    "word": "WORD_TRADUITS\\18\\02_EN-NAYRY_Oussama_Copia_integrale_nascita.docx",
+    "gold": "gold\\exemples_traduits\\18\\02_EN-NAYRY_Oussama_Copia_integrale_nascita.docx",
+    "sha256": "7adb128fc08f6b16ced00e5e5e465f39dc4cd2622b96ce76455c507b4ce098d0",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "18",
+    "word": "WORD_TRADUITS\\18\\03_EN-NAYRY_Lahcen_Lavoro.docx",
+    "gold": "gold\\exemples_traduits\\18\\03_EN-NAYRY_Lahcen_Lavoro.docx",
+    "sha256": "7a22e97114518aaa9fe1774a7b4616c50fbd58d27e3c676054958df435483cfe",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "18",
+    "word": "WORD_TRADUITS\\18\\04_MARNICH_Zahra_-_EN-NAYRY_Oussama_Parentela.docx",
+    "gold": "gold\\exemples_traduits\\18\\04_MARNICH_Zahra_-_EN-NAYRY_Oussama_Parentela.docx",
+    "sha256": "3aa42f4f2f1465224798699a80d24bf31ba78d08cec18fad0323337c2e53d34f",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "18",
+    "word": "WORD_TRADUITS\\18\\05_MARNICH_Zahra_-_EN-NAYRY_Oussama_Presa_a_carico.docx",
+    "gold": "gold\\exemples_traduits\\18\\05_MARNICH_Zahra_-_EN-NAYRY_Oussama_Presa_a_carico.docx",
+    "sha256": "c9dc648ec887cf50efa7fcadb4a9b94f004717179bf64c053d1f4af94b162f91",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "18",
+    "word": "WORD_TRADUITS\\18\\06_EN-NAYRY_Lahcen_-_EN-NAYRY_Oussama_Parentela.docx",
+    "gold": "gold\\exemples_traduits\\18\\06_EN-NAYRY_Lahcen_-_EN-NAYRY_Oussama_Parentela.docx",
+    "sha256": "7175f1790549be712da9828713a7416c7e0c2742f1c7d2aeddb5fe2ec76d1398",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "18",
+    "word": "WORD_TRADUITS\\18\\07_EN-NAYRY_Oussama_Achraf_Adam_Esistenza_in_vita.docx",
+    "gold": "gold\\exemples_traduits\\18\\07_EN-NAYRY_Oussama_Achraf_Adam_Esistenza_in_vita.docx",
+    "sha256": "b8c214292aa6be546235ea93b039dea1aec30e1a96e481bee90b739e9664757f",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "18",
+    "word": "WORD_TRADUITS\\18\\08_EN-NAYRY_Lahcen_Libretto_di_famiglia.docx",
+    "gold": "gold\\exemples_traduits\\18\\08_EN-NAYRY_Lahcen_Libretto_di_famiglia.docx",
+    "sha256": "e54833dffe7895b82eef612a89ac173cdb0323cd5ca1d5ed6bed88613dc745ca",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "18",
+    "word": "WORD_TRADUITS\\18\\09_EN-NAYRY_Lahcen_-_EN-NAYRY_Oussama_Presa_a_carico.docx",
+    "gold": "gold\\exemples_traduits\\18\\09_EN-NAYRY_Lahcen_-_EN-NAYRY_Oussama_Presa_a_carico.docx",
+    "sha256": "6f1735dd31c02fe244428c085e4906b5b2d79c7e81b3215bd192237cb8f5a06f",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "19",
+    "word": "WORD_TRADUITS\\19\\01_BENFTOUH_Karima_Mohamed_Ayoub_Zineb_Chaimae_Safae_Hanae_Esistenza_in_vita.docx",
+    "gold": "gold\\exemples_traduits\\19\\01_BENFTOUH_Karima_Mohamed_Ayoub_Zineb_Chaimae_Safae_Hanae_Esistenza_in_vita.docx",
+    "sha256": "97bc55005b82b9f7e63e663430e4d7eb04763104edabbd5f1ec45a81e2c4e715",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "19",
+    "word": "WORD_TRADUITS\\19\\02_BENFTOUH_Zineb_Copia_integrale_nascita.docx",
+    "gold": "gold\\exemples_traduits\\19\\02_BENFTOUH_Zineb_Copia_integrale_nascita.docx",
+    "sha256": "4dc24387c37d6325d933356453692ffbaed68ffb6d88778b5720139b93af459e",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "19",
+    "word": "WORD_TRADUITS\\19\\03_BENFTOUH_Zineb_-_BENFTOUH_El_Mostafa_Parentela.docx",
+    "gold": "gold\\exemples_traduits\\19\\03_BENFTOUH_Zineb_-_BENFTOUH_El_Mostafa_Parentela.docx",
+    "sha256": "4c11048a69faa3d97ded0e7a9ee9e1d0cadd6a336252863d1c6b9f214f6d0526",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "19",
+    "word": "WORD_TRADUITS\\19\\04_BENFTOUH_El_Mostafa_-_BENFTOUH_Zineb_Presa_a_carico.docx",
+    "gold": "gold\\exemples_traduits\\19\\04_BENFTOUH_El_Mostafa_-_BENFTOUH_Zineb_Presa_a_carico.docx",
+    "sha256": "7c7605e4efa8741fd0d29923b9933da3dc50eef7215322c1e96759b853ffb28c",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "19",
+    "word": "WORD_TRADUITS\\19\\05_BENFTOUH_El_Mostafa_Libretto_di_famiglia.docx",
+    "gold": "gold\\exemples_traduits\\19\\05_BENFTOUH_El_Mostafa_Libretto_di_famiglia.docx",
+    "sha256": "37d49ea5d24958d1bfe0bc28ca83c708a689ca6dea82d6be2f0cb199e9e2db6d",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "20",
+    "word": "WORD_TRADUITS\\20\\01_ZAOUIA_Mohammed_-_ZAOUIA_Zakaria_Proprieta.docx",
+    "gold": "gold\\exemples_traduits\\20\\01_ZAOUIA_Mohammed_-_ZAOUIA_Zakaria_Proprieta.docx",
+    "sha256": "1de1f29d109e03c2333f233d74378cefb964ff426637da250acb664b5a6f58a4",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "20",
+    "word": "WORD_TRADUITS\\20\\02_ZAOUIA_Zakaria_Tirocinio_HASHTAG.docx",
+    "gold": "gold\\exemples_traduits\\20\\02_ZAOUIA_Zakaria_Tirocinio_HASHTAG.docx",
+    "sha256": "e7d7acaee84d4ca4f2d1b62f5d4574664c13fa0c63547b0823526df3735f753f",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "20",
+    "word": "WORD_TRADUITS\\20\\03_ZAOUIA_Zakaria_Pagella_HASHTAG.docx",
+    "gold": "gold\\exemples_traduits\\20\\03_ZAOUIA_Zakaria_Pagella_HASHTAG.docx",
+    "sha256": "1275d9c8f86a97c2ccfe4afb8b4173af4cb6ec0fe81078ac6449297ec2b6771d",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "20",
+    "word": "WORD_TRADUITS\\20\\04_ZAOUIA_Zakaria_Diploma_HASHTAG.docx",
+    "gold": "gold\\exemples_traduits\\20\\04_ZAOUIA_Zakaria_Diploma_HASHTAG.docx",
+    "sha256": "0734adc9dfd5be22e8b2234ba63134a9be208bb9d6bdd9663e688910decc4355",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "20",
+    "word": "WORD_TRADUITS\\20\\05_ZAOUIA_Zakaria_Diploma_OFPPT.docx",
+    "gold": "gold\\exemples_traduits\\20\\05_ZAOUIA_Zakaria_Diploma_OFPPT.docx",
+    "sha256": "74dad95b044793afe2a6ea7d8cfce0b2d142ace24232eb3d0b49a5e3ef5a6cc4",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "20",
+    "word": "WORD_TRADUITS\\20\\06_ZAOUIA_Zakaria_Pagella_OFPPT.docx",
+    "gold": "gold\\exemples_traduits\\20\\06_ZAOUIA_Zakaria_Pagella_OFPPT.docx",
+    "sha256": "583b29318c1399bc6e0ada830e4a2166287eab91b6aa2af13702d328fc534ed5",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "5",
+    "word": "WORD_TRADUITS\\5\\01_BEN_MBAREK_Aziz_Quietanza_liberatoria.docx",
+    "gold": "gold\\exemples_traduits\\5\\01_BEN_MBAREK_Aziz_Quietanza_liberatoria.docx",
+    "sha256": "4d743f38b06c5dbfe9def22efd889b02f029a532b9ce8e151c199bc5522c6553",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "6",
+    "word": "WORD_TRADUITS\\6\\01_AIT_KHOUYA_Fatine_et_Adam_Esistenza_in_vita_collettiva.docx",
+    "gold": "gold\\exemples_traduits\\6\\01_AIT_KHOUYA_Fatine_et_Adam_Esistenza_in_vita_collettiva.docx",
+    "sha256": "f97555627b0eece05c83b1245515972c81fec6f3dc413e01b577833b3c9f7d47",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "6",
+    "word": "WORD_TRADUITS\\6\\02_ESSALHI_Fouzia_Reddito_mensile.docx",
+    "gold": "gold\\exemples_traduits\\6\\02_ESSALHI_Fouzia_Reddito_mensile.docx",
+    "sha256": "f60fff98c75c14cfff2924dd8c554b40b2032829201d5c2daebd917096c1a9e8",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "6",
+    "word": "WORD_TRADUITS\\6\\03_AIT_KHOUYA_Jamal_Libretto_di_famiglia.docx",
+    "gold": "gold\\exemples_traduits\\6\\03_AIT_KHOUYA_Jamal_Libretto_di_famiglia.docx",
+    "sha256": "1e2f2b41d4d3c137a1c05c0b3a86a72a86766dd358cbd43457e9f75fa7628cfa",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "6",
+    "word": "WORD_TRADUITS\\6\\04_AIT_KHOUYA_Fatine_Copia_integrale_nascita.docx",
+    "gold": "gold\\exemples_traduits\\6\\04_AIT_KHOUYA_Fatine_Copia_integrale_nascita.docx",
+    "sha256": "7a3fcc47244688f293b68f61f94a5426e7c41e044f2eb6912a74bcb5ec559d27",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "6",
+    "word": "WORD_TRADUITS\\6\\05_ESSALHI_Fouzia_-_AIT_KHOUYA_Fatine_Presa_a_carico.docx",
+    "gold": "gold\\exemples_traduits\\6\\05_ESSALHI_Fouzia_-_AIT_KHOUYA_Fatine_Presa_a_carico.docx",
+    "sha256": "b0aec8a116c0a13b29e0b3cb8e186a9345c086f5c7443f67dfdeee892348fbb0",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "6",
+    "word": "WORD_TRADUITS\\6\\06_AIT_KHOUYA_Fatine_Legame_di_parentela.docx",
+    "gold": "gold\\exemples_traduits\\6\\06_AIT_KHOUYA_Fatine_Legame_di_parentela.docx",
+    "sha256": "a6c3b2212bd83a698221b698118a35eb138fb4066ec6d4de704ea5dd1f3a5a06",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "6",
+    "word": "WORD_TRADUITS\\6\\07_ESSALHI_Fouzia_Professione.docx",
+    "gold": "gold\\exemples_traduits\\6\\07_ESSALHI_Fouzia_Professione.docx",
+    "sha256": "34033c0b9eb03b9f58fa6cd85c7220f96b335ebd9772e8cd91bae3733d79add8",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "6",
+    "word": "WORD_TRADUITS\\6\\~$_ESSALHI_Fouzia_Professione.docx",
+    "gold": "gold\\exemples_traduits\\6\\~$_ESSALHI_Fouzia_Professione.docx",
+    "sha256": "b4c48a948c851fb7a7f274b9a51dcc1522f054246a69c7665862463af04b0c6c",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "7",
+    "word": "WORD_TRADUITS\\7\\01_BENZAHRA_Ghizlane_-_BALKASSMI_Hajar_Presa_a_carico.docx",
+    "gold": "gold\\exemples_traduits\\7\\01_BENZAHRA_Ghizlane_-_BALKASSMI_Hajar_Presa_a_carico.docx",
+    "sha256": "0391feecd7ee8dc2b1237e8eb993158e2732eaa4a923ff7f8e89697877834dbc",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "7",
+    "word": "WORD_TRADUITS\\7\\02_BALKASSMI_Hajar_Legame_di_parentela.docx",
+    "gold": "gold\\exemples_traduits\\7\\02_BALKASSMI_Hajar_Legame_di_parentela.docx",
+    "sha256": "c43439b424c432c97d7cce72bc835f378f4ece0671c57853f7b89699ba45b6ad",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "7",
+    "word": "WORD_TRADUITS\\7\\03_BALKASSMI_Hajar_Esistenza_in_vita_collettiva.docx",
+    "gold": "gold\\exemples_traduits\\7\\03_BALKASSMI_Hajar_Esistenza_in_vita_collettiva.docx",
+    "sha256": "e9d40f72a1ff2fe29239bcce87aa69777f1169a069593b41ee2a5bce0a3584b1",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "7",
+    "word": "WORD_TRADUITS\\7\\04_BALKASSMI_Hajar_Diploma_IFIAG.docx",
+    "gold": "gold\\exemples_traduits\\7\\04_BALKASSMI_Hajar_Diploma_IFIAG.docx",
+    "sha256": "20f2c627402f281f95ccd8f3f4f487c5427da2d930da4512cf313bfec04a7db3",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "7",
+    "word": "WORD_TRADUITS\\7\\05_BALKASSMI_Hajar_Diploma_Polyvalence.docx",
+    "gold": "gold\\exemples_traduits\\7\\05_BALKASSMI_Hajar_Diploma_Polyvalence.docx",
+    "sha256": "e7f6b35b4f1ae8138eaa3d259856805caa0ff2919f85a058da886e190d05753d",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "7",
+    "word": "WORD_TRADUITS\\7\\06_BALKASSMI_Hajar_Voti_maturita.docx",
+    "gold": "gold\\exemples_traduits\\7\\06_BALKASSMI_Hajar_Voti_maturita.docx",
+    "sha256": "b09410b1d11fc621514de0bc0a8934f65f685e05c1d87481ec99808c2a1795f2",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "7",
+    "word": "WORD_TRADUITS\\7\\07_BALKASSMI_Hajar_Diploma_maturita.docx",
+    "gold": "gold\\exemples_traduits\\7\\07_BALKASSMI_Hajar_Diploma_maturita.docx",
+    "sha256": "225e351bd4a9fe0f369b922b2acbed036d7dd02e44a24c0b4b2093bf42d684d4",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "7",
+    "word": "WORD_TRADUITS\\7\\08_BALKASSMI_Hajar_Voti_Polyvalence_2023-2024.docx",
+    "gold": "gold\\exemples_traduits\\7\\08_BALKASSMI_Hajar_Voti_Polyvalence_2023-2024.docx",
+    "sha256": "b085263c5686410efc278e32b09e51896e000f3cd768b672a2f6b28f1f0d30fb",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "7",
+    "word": "WORD_TRADUITS\\7\\09_BALKASSMI_Hajar_Voti_Polyvalence_2024-2025.docx",
+    "gold": "gold\\exemples_traduits\\7\\09_BALKASSMI_Hajar_Voti_Polyvalence_2024-2025.docx",
+    "sha256": "5fc081df66d1b229171be8099cc4853ab92c48d24aea61ff231a851a08fc0e2e",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "7",
+    "word": "WORD_TRADUITS\\7\\10_BALKASSMI_Hajar_Voti_IFIAG_2021-2022.docx",
+    "gold": "gold\\exemples_traduits\\7\\10_BALKASSMI_Hajar_Voti_IFIAG_2021-2022.docx",
+    "sha256": "b319a9ba12f94b2d0ef260c5586dda1effd13c3bbbbb5915e76fcb989fb782f9",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "7",
+    "word": "WORD_TRADUITS\\7\\11_BALKASSMI_Hajar_Voti_IFIAG_2022-2023.docx",
+    "gold": "gold\\exemples_traduits\\7\\11_BALKASSMI_Hajar_Voti_IFIAG_2022-2023.docx",
+    "sha256": "81ada362b0ca83d80409e8be2090c80fbbdecefb0b1494bb846760ed42f9516b",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "7",
+    "word": "WORD_TRADUITS\\7\\12_BALKASSMI_Abdessalam_Libretto_di_famiglia.docx",
+    "gold": "gold\\exemples_traduits\\7\\12_BALKASSMI_Abdessalam_Libretto_di_famiglia.docx",
+    "sha256": "f9bc646678ce3f47f4919c120313a1fe0fd959affb892948bf3d30238d40c3e4",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "8",
+    "word": "WORD_TRADUITS\\8\\01_LAAMRI_Mourad_Copia_integrale_nascita.docx",
+    "gold": "gold\\exemples_traduits\\8\\01_LAAMRI_Mourad_Copia_integrale_nascita.docx",
+    "sha256": "53149b0fc5d0fa4ebf92dcfad60094303f3ff4bc00e558c49fc0a8862df598d3",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "8",
+    "word": "WORD_TRADUITS\\8\\02_LAAMRI_Brahim_Estratto_nascita.docx",
+    "gold": "gold\\exemples_traduits\\8\\02_LAAMRI_Brahim_Estratto_nascita.docx",
+    "sha256": "56fbd270d4691fa2fd17a71f8190515f7a5552d25dc83810db7dd23a556a090c",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "8",
+    "word": "WORD_TRADUITS\\8\\03_KARTOT_Kholoud_Copia_integrale_nascita.docx",
+    "gold": "gold\\exemples_traduits\\8\\03_KARTOT_Kholoud_Copia_integrale_nascita.docx",
+    "sha256": "32c7fce933bece3e3463f7cb1360e09f24a6c5ee2163e4925b3c5eea87586f87",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "8",
+    "word": "WORD_TRADUITS\\8\\04_KARTOT_Kholoud_Unica_moglie.docx",
+    "gold": "gold\\exemples_traduits\\8\\04_KARTOT_Kholoud_Unica_moglie.docx",
+    "sha256": "fc195e5acc648c37cc30c8de7f5f9d1169c1c043db95124ba3b4668bde01d784",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "8",
+    "word": "WORD_TRADUITS\\8\\05_KARTOT_Kholoud_Non_divorzio.docx",
+    "gold": "gold\\exemples_traduits\\8\\05_KARTOT_Kholoud_Non_divorzio.docx",
+    "sha256": "2c71ac4a6da11a215e05261c26f5156a6cf7013a5014a6c7ba388461049ffdc7",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "8",
+    "word": "WORD_TRADUITS\\8\\06_LAAMRI_Mourad_Libretto_di_famiglia.docx",
+    "gold": "gold\\exemples_traduits\\8\\06_LAAMRI_Mourad_Libretto_di_famiglia.docx",
+    "sha256": "5593b58d2c8102bb2de1e772e5caff881ff50e75bbb40f072ccfca8ecf613e39",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "9",
+    "word": "WORD_TRADUITS\\9\\01_ELJIHAD_Nadia_-_ELJIHAD_Mohammed_Presa_a_carico.docx",
+    "gold": "gold\\exemples_traduits\\9\\01_ELJIHAD_Nadia_-_ELJIHAD_Mohammed_Presa_a_carico.docx",
+    "sha256": "a0ea93779a0a3523597c03730b60691cc575d54fc8f06362eb94cd53fd4f1788",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "9",
+    "word": "WORD_TRADUITS\\9\\02_ELJIHAD_Mohammed_Legame_di_parentela.docx",
+    "gold": "gold\\exemples_traduits\\9\\02_ELJIHAD_Mohammed_Legame_di_parentela.docx",
+    "sha256": "e12ce06eee08ba6a963fca13c2c9eb7c8f8e3bd4dcf9b896f6d17aa176518263",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "9",
+    "word": "WORD_TRADUITS\\9\\03_ELJIHAD_Mohammed_Copia_integrale_nascita.docx",
+    "gold": "gold\\exemples_traduits\\9\\03_ELJIHAD_Mohammed_Copia_integrale_nascita.docx",
+    "sha256": "5d51e99f6a35b81c14968607f698ce98f644bce60f0dc4a437db6e7431bf659a",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "9",
+    "word": "WORD_TRADUITS\\9\\04_ELJIHAD_Mohammed_Estratto_nascita.docx",
+    "gold": "gold\\exemples_traduits\\9\\04_ELJIHAD_Mohammed_Estratto_nascita.docx",
+    "sha256": "6d9b28bc6a1007e6e959681ca5ffa51b2bd2ec5082e54dfa1fddb43f47a9ecc1",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "9",
+    "word": "WORD_TRADUITS\\9\\05_ELJIHAD_Hassan_Libretto_di_famiglia.docx",
+    "gold": "gold\\exemples_traduits\\9\\05_ELJIHAD_Hassan_Libretto_di_famiglia.docx",
+    "sha256": "f4242ef1ad1ac8abfca5cd90bdbb6c5d904e2137f10bd67a11c21395c122ed8a",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "9",
+    "word": "WORD_TRADUITS\\9\\06_ELJIHAD_Mohammed_Diploma_maturita.docx",
+    "gold": "gold\\exemples_traduits\\9\\06_ELJIHAD_Mohammed_Diploma_maturita.docx",
+    "sha256": "243589c8e7106f999d59248ca5c9314a49510db8b5787bc5261b250ea95b8679",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "9",
+    "word": "WORD_TRADUITS\\9\\07_ELJIHAD_Mohammed_Voti_maturita.docx",
+    "gold": "gold\\exemples_traduits\\9\\07_ELJIHAD_Mohammed_Voti_maturita.docx",
+    "sha256": "aa3e0630e058b9cf70f0f6ebdffeb17e398921024ca4c621554feea91fb6e384",
+    "statut": "traduction de travail, validation utilisateur non reçue"
+  },
+  {
+    "pdf": "21",
+    "word": "WORD_TRADUITS\\21\\01_KAMAL_Abdelrhafour_Estratto_nascita.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\21\\01_KAMAL_Abdelrhafour_Estratto_nascita.docx",
+    "sha256": "2205637eae28cba22c790da269872b6f00c0b3f73d7230a15e40ed0730804454",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA250813003_A"
+  },
+  {
+    "pdf": "21",
+    "word": "WORD_TRADUITS\\21\\02_KAMAL_Elhassan_Libretto_di_famiglia.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\21\\02_KAMAL_Elhassan_Libretto_di_famiglia.docx",
+    "sha256": "ef5a9b52d390d454ed05b4f6fad00f5dffcac9f020cc518d0ce995320077c565",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA251001012-B"
+  },
+  {
+    "pdf": "23",
+    "word": "WORD_TRADUITS\\23\\01_HAKKI_Youssef_Estratto_nascita.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\23\\01_HAKKI_Youssef_Estratto_nascita.docx",
+    "sha256": "f5d974a900da5bc63987374217c4427628fea72c6e18d05466010a9158c7b044",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA250212004_A"
+  },
+  {
+    "pdf": "23",
+    "word": "WORD_TRADUITS\\23\\02_HAKKI_Mustapha_-_HAKKI_Youssef_Parentela.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\23\\02_HAKKI_Mustapha_-_HAKKI_Youssef_Parentela.docx",
+    "sha256": "180a50fa2bcb65dd7ce55c3e6243b503bcc44c15f40a718faa63f4f8b7ab7348",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA250729008_C"
+  },
+  {
+    "pdf": "23",
+    "word": "WORD_TRADUITS\\23\\03_HAKKI_Mustapha_Reddito.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\23\\03_HAKKI_Mustapha_Reddito.docx",
+    "sha256": "fb55d38b3aab864892e4f8acceff956cdb6f4f6cf42624a880c2c3e64ab4d58c",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA241002011_C"
+  },
+  {
+    "pdf": "24",
+    "word": "WORD_TRADUITS\\24\\01_KOUAM_Mohssine_Tirocinio_Global_Compta.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\24\\01_KOUAM_Mohssine_Tirocinio_Global_Compta.docx",
+    "sha256": "e82501a08a411d2d71e22df784c15dfb0a62e8fe71d92a23ccd2c3db0af352ee",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA250701028_H"
+  },
+  {
+    "pdf": "24",
+    "word": "WORD_TRADUITS\\24\\02_KOUAM_Ihssane_Tirocinio_Global_Compta.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\24\\02_KOUAM_Ihssane_Tirocinio_Global_Compta.docx",
+    "sha256": "18034e61fa912e3cb661ac0e5d63d7e17c5a6e8a78eff6baf61ca43db8131bb8",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA250701028_H"
+  },
+  {
+    "pdf": "24",
+    "word": "WORD_TRADUITS\\24\\03_KOUAM_Ihssane_Tirocinio_New_Fid.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\24\\03_KOUAM_Ihssane_Tirocinio_New_Fid.docx",
+    "sha256": "4a9f43294fdffe4144dd35c21841da17b25fc62bf62a460b28495f557d230dbf",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA250701028_H"
+  },
+  {
+    "pdf": "24",
+    "word": "WORD_TRADUITS\\24\\04_BENNOR_Karim_Tirocinio_Rent_Guru.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\24\\04_BENNOR_Karim_Tirocinio_Rent_Guru.docx",
+    "sha256": "3ae7efd5fabddaf4654267ccd65fdd2336c05b8d0f97ed1f29ef0098717ff11c",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA250701010_B"
+  },
+  {
+    "pdf": "27",
+    "word": "WORD_TRADUITS\\27\\01_JBARI_Mina_Inventario_immobiliare.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\27\\01_JBARI_Mina_Inventario_immobiliare.docx",
+    "sha256": "589c74a1b0fb7d505af2aa282a1ec21b7b64df058223df78bdaa64eacd9d6421",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA240812018_C à voir"
+  },
+  {
+    "pdf": "27",
+    "word": "WORD_TRADUITS\\27\\02_JBARI_Mina_e_comproprietari_Proprieta.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\27\\02_JBARI_Mina_e_comproprietari_Proprieta.docx",
+    "sha256": "22916f6d9cf09e494cd8d628782fcb2521799aef829d422c6ae6b322ee04ce0f",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA250522016_G"
+  },
+  {
+    "pdf": "29",
+    "word": "WORD_TRADUITS\\29\\01_ELHARRATI_Omaima_Estratto_nascita.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\29\\01_ELHARRATI_Omaima_Estratto_nascita.docx",
+    "sha256": "6fad498820ddf70d6d439a445d794bb676b18d8db76226f15b259bcaed6be134",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA241105002_A"
+  },
+  {
+    "pdf": "29",
+    "word": "WORD_TRADUITS\\29\\02_ELHARRATI_Salah_Eddine_Negativo_proprieta.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\29\\02_ELHARRATI_Salah_Eddine_Negativo_proprieta.docx",
+    "sha256": "a542debdf93ee8dfdd422f10e2c32f652a30ed28ca192530e142081ad255136d",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA250522016_H"
+  },
+  {
+    "pdf": "29",
+    "word": "WORD_TRADUITS\\29\\03_ELHARRATI_Aziz_-_ELHARRATI_Omaima_Presa_a_carico.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\29\\03_ELHARRATI_Aziz_-_ELHARRATI_Omaima_Presa_a_carico.docx",
+    "sha256": "1afa3ac57576c872d19073b9441563f38f2a4743f07ed0bd586d21e7d9904abb",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA250619020_G"
+  },
+  {
+    "pdf": "29",
+    "word": "WORD_TRADUITS\\29\\04_ELHARRATI_Omaima_Driss_Esistenza_in_vita.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\29\\04_ELHARRATI_Omaima_Driss_Esistenza_in_vita.docx",
+    "sha256": "a96a49d1bd8ba801afec520feb1a5c6f71068f46c12e93d3c936a086d0e8dc0f",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA251001012-C"
+  },
+  {
+    "pdf": "29",
+    "word": "WORD_TRADUITS\\29\\05_ELHARRATI_Omaima_Reddito.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\29\\05_ELHARRATI_Omaima_Reddito.docx",
+    "sha256": "e5f50f7cd897e06c244af029a86982ec2c08cb0e60f2068779f9104b8471c0ef",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA251015001_A"
+  },
+  {
+    "pdf": "29",
+    "word": "WORD_TRADUITS\\29\\06_NAMANE_Fatiha_Reddito.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\29\\06_NAMANE_Fatiha_Reddito.docx",
+    "sha256": "9c8cd23c0622aa105e73b56c121f1d3844fff71d3c8a2a217b9de938c1e39c26",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA251015001_A"
+  },
+  {
+    "pdf": "29",
+    "word": "WORD_TRADUITS\\29\\07_ELHARRATI_Omaima_Proprieta.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\29\\07_ELHARRATI_Omaima_Proprieta.docx",
+    "sha256": "e8a9cd203a4bf60f72aca13f9e5035e16c7d22b37bd778a03ec347f5421bfef3",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA250804013_E"
+  },
+  {
+    "pdf": "29",
+    "word": "WORD_TRADUITS\\29\\08_ELHARRATI_Salah_Eddine_Dichiarazione_rapporti_bancari.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\29\\08_ELHARRATI_Salah_Eddine_Dichiarazione_rapporti_bancari.docx",
+    "sha256": "c05cf9a7f2d664f40f59bc17c890d4fd60217056502fa794b06d930e72ee263c",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA250702005_E"
+  },
+  {
+    "pdf": "29",
+    "word": "WORD_TRADUITS\\29\\09_NAMANE_Fatiha_Proprieta.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\29\\09_NAMANE_Fatiha_Proprieta.docx",
+    "sha256": "2e237b4cf9595e06ee861f02c0ff845176d807e4b0d7a978b0fd5b2820095822",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA250804013_E"
+  },
+  {
+    "pdf": "29",
+    "word": "WORD_TRADUITS\\29\\10_ELHARRATI_Othman_Omaima_Osama_Salah_Eddine_Wijdane_Esistenza_in_vita.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\29\\10_ELHARRATI_Othman_Omaima_Osama_Salah_Eddine_Wijdane_Esistenza_in_vita.docx",
+    "sha256": "0ef6628652d45f7f91451c791c1a520d3ace80dc1ad989991f28b320ee52eb2f",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA251001012-C"
+  },
+  {
+    "pdf": "29",
+    "word": "WORD_TRADUITS\\29\\11_ELHARRATI_Salah_Eddine_Reddito.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\29\\11_ELHARRATI_Salah_Eddine_Reddito.docx",
+    "sha256": "4505af56a4ab1c7e9200bd6fe44dd0e959e8c9f8425fd6e3568818ba03f35b5a",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA251015001_A"
+  },
+  {
+    "pdf": "29",
+    "word": "WORD_TRADUITS\\29\\12_ELHARRATI_Abdelkader_Estratto_decesso.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\29\\12_ELHARRATI_Abdelkader_Estratto_decesso.docx",
+    "sha256": "7b45f02d9e64747f42aad0a00c5579c03ec93f768833553229aa93e5ab3decfb",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA250822019-D"
+  },
+  {
+    "pdf": "29",
+    "word": "WORD_TRADUITS\\29\\13_ELHARRATI_Aziz_-_ELHARRATI_Omaima_Parentela.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\29\\13_ELHARRATI_Aziz_-_ELHARRATI_Omaima_Parentela.docx",
+    "sha256": "fd85252ac4cd32f0d5b3ef9a535edb10bba045b21f67c154026bea4fd5bd4e21",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA250828022_D"
+  },
+  {
+    "pdf": "29",
+    "word": "WORD_TRADUITS\\29\\14_ELHARRATI_Omaima_Copia_integrale_nascita.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\29\\14_ELHARRATI_Omaima_Copia_integrale_nascita.docx",
+    "sha256": "9e71330c977efd194f179159d525b00fa6544968a1df5571574c7a836c1f5756",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA240304006_B"
+  },
+  {
+    "pdf": "29",
+    "word": "WORD_TRADUITS\\29\\15_ELHARRATI_Abdelkader_Libretto_di_famiglia.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\29\\15_ELHARRATI_Abdelkader_Libretto_di_famiglia.docx",
+    "sha256": "70825ec30414dc9999fb7d8777bdb0ae717bad236a46ce9510560d0c0ba25b88",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA250528009_B"
+  },
+  {
+    "pdf": "33",
+    "word": "WORD_TRADUITS\\33\\01_RAHIL_Abdelmjid_Proprieta.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\33\\01_RAHIL_Abdelmjid_Proprieta.docx",
+    "sha256": "607cc9bf630ddc6603bae8a4623b4f49c4adcf7a29432524dc2dce3516f76d9c",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA250804013_E"
+  },
+  {
+    "pdf": "33",
+    "word": "WORD_TRADUITS\\33\\02_JADANI_Souad_Reddito.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\33\\02_JADANI_Souad_Reddito.docx",
+    "sha256": "c2c9c77a59f2d44c0c2f7e99e34f4537471106e5b0e1d971fbd990f81e895e37",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA250619012"
+  },
+  {
+    "pdf": "33",
+    "word": "WORD_TRADUITS\\33\\03_RAHIL_Badr_Reddito.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\33\\03_RAHIL_Badr_Reddito.docx",
+    "sha256": "5666072cebe1bdb3a28009a0924c0bef424159f40df156ebe9c9012f57292501",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA250619012"
+  },
+  {
+    "pdf": "33",
+    "word": "WORD_TRADUITS\\33\\04_RAHIL_Badr_Aymane_Adam_Esistenza_in_vita.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\33\\04_RAHIL_Badr_Aymane_Adam_Esistenza_in_vita.docx",
+    "sha256": "02eb5a86cd9121ea2d077c8dd48c71a5b297921d3e7abd966bedc1f4e58dbc8f",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA251001012-C"
+  },
+  {
+    "pdf": "33",
+    "word": "WORD_TRADUITS\\33\\05_RAHIL_Adam_Certificato_scolastico.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\33\\05_RAHIL_Adam_Certificato_scolastico.docx",
+    "sha256": "68a959c4228bec208e8f6730fd4bcc7dad321f3bbedf09af2ba325322f900ca4",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA250527007_G"
+  },
+  {
+    "pdf": "33",
+    "word": "WORD_TRADUITS\\33\\06_RAHIL_Badr_Negativo_proprieta.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\33\\06_RAHIL_Badr_Negativo_proprieta.docx",
+    "sha256": "cbd0bc658325652cd3e788e3b5b82e172eff8b62b30b1817357ff7bd11c2b234",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA250522016_H"
+  },
+  {
+    "pdf": "33",
+    "word": "WORD_TRADUITS\\33\\07_JADANI_Souad_Negativo_proprieta.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\33\\07_JADANI_Souad_Negativo_proprieta.docx",
+    "sha256": "bb29247faec7fa2e529b0823fae9fa33f4e35c90ac801d4e7a2959dfdbae6e04",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA250522016_H"
+  },
+  {
+    "pdf": "33",
+    "word": "WORD_TRADUITS\\33\\08_RAHIL_Aymane_Negativo_proprieta.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\33\\08_RAHIL_Aymane_Negativo_proprieta.docx",
+    "sha256": "fa0c0eadc059cbbb9d6077ad3f92175ae721696b563d30481bb801a4ddd4dfc8",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA250522016_H"
+  },
+  {
+    "pdf": "33",
+    "word": "WORD_TRADUITS\\33\\09_RAHIL_Abdelmjid_Reddito_pensione.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\33\\09_RAHIL_Abdelmjid_Reddito_pensione.docx",
+    "sha256": "ecbbe1b17ce81cb49acb5a1b7d9affa21120f5cb581b5a010b126d62269699ba",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA241002011_C"
+  },
+  {
+    "pdf": "33",
+    "word": "WORD_TRADUITS\\33\\10_RAHIL_Aymane_Reddito.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\33\\10_RAHIL_Aymane_Reddito.docx",
+    "sha256": "2e7ea65e954c0368dd60bb055b41af86ba6f233aa4448b13cb6301b4975379c3",
+    "statut": "traduction produite par l’assistant, validation utilisateur non reçue",
+    "modele": "RA250619012"
+  },
+  {
+    "pdf": "7",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\7\\01_BENZAHRA_Ghizlane_-_BALKASSMI_Hajar_Presa_a_carico.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\7\\01_BENZAHRA_Ghizlane_-_BALKASSMI_Hajar_Presa_a_carico.docx",
+    "sha256": "0482d7cd595ab0cebd23429fb25444fe16b595a71830d25c4138e1f59c3de4da",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "7",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\7\\02_BALKASSMI_Hajar_Legame_di_parentela.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\7\\02_BALKASSMI_Hajar_Legame_di_parentela.docx",
+    "sha256": "15026eff14a3beea9ba7c3ab1d64f9c45bb6df724d7bbdc0010f42815fc3183a",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "7",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\7\\03_BALKASSMI_Hajar_Esistenza_in_vita_collettiva.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\7\\03_BALKASSMI_Hajar_Esistenza_in_vita_collettiva.docx",
+    "sha256": "bda68069f62b28e15e102200f4c3fa83441bea3f36e3121dc2ad2a63b7bcec6d",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "7",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\7\\04_BALKASSMI_Hajar_Diploma_IFIAG.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\7\\04_BALKASSMI_Hajar_Diploma_IFIAG.docx",
+    "sha256": "ef64c88cf91f49d9c303c4069a7a79a9ff916d5d68e456e097109dd8bef96f73",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "7",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\7\\05_BALKASSMI_Hajar_Diploma_Polyvalence.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\7\\05_BALKASSMI_Hajar_Diploma_Polyvalence.docx",
+    "sha256": "3168a8fa536f84a1951e78e0df5c04f1db6ee444cde4aed76b273b40359e5f77",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "7",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\7\\06_BALKASSMI_Hajar_Voti_maturita.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\7\\06_BALKASSMI_Hajar_Voti_maturita.docx",
+    "sha256": "dd5cfec5c9df1ddf81e43bce4ae5a23af241c61f21785b6cb83536d31b8ca173",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "7",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\7\\07_BALKASSMI_Hajar_Diploma_maturita.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\7\\07_BALKASSMI_Hajar_Diploma_maturita.docx",
+    "sha256": "3a7527e9f86cd700b9ab38f16f3bd4846df49f2ad0f83bc10dde74b08bc9469a",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "7",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\7\\08_BALKASSMI_Hajar_Voti_Polyvalence_2023-2024.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\7\\08_BALKASSMI_Hajar_Voti_Polyvalence_2023-2024.docx",
+    "sha256": "7b79089826042447602332de6d874bf725b7e26b6c120cf711f1e5e37e2ed403",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "7",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\7\\09_BALKASSMI_Hajar_Voti_Polyvalence_2024-2025.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\7\\09_BALKASSMI_Hajar_Voti_Polyvalence_2024-2025.docx",
+    "sha256": "2f3ecde8912a1a11083501dc97158281e05e184fb30ec64f66ca3f12ea0b8a55",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "7",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\7\\10_BALKASSMI_Hajar_Voti_IFIAG_2021-2022.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\7\\10_BALKASSMI_Hajar_Voti_IFIAG_2021-2022.docx",
+    "sha256": "9eb2f60c70d1cc9c65b3c5cf1eab6f22c0774bc45a30c8150a26551c6e436639",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "7",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\7\\11_BALKASSMI_Hajar_Voti_IFIAG_2022-2023.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\7\\11_BALKASSMI_Hajar_Voti_IFIAG_2022-2023.docx",
+    "sha256": "d74c0321c0b819f79e8a23c55dfa71b10a5550a5728b701c46d1dc2041f2d91b",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "7",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\7\\12_BALKASSMI_Abdessalam_Libretto_di_famiglia.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\7\\12_BALKASSMI_Abdessalam_Libretto_di_famiglia.docx",
+    "sha256": "48daa47dbbeab95cbed72153e5ea4fb919a251c7fbac1aceb9c4bf3c894db4a3",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "8",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\8\\01_LAAMRI_Mourad_Copia_integrale_nascita.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\8\\01_LAAMRI_Mourad_Copia_integrale_nascita.docx",
+    "sha256": "1fa4df846c2fc5e612ca92dc52dc69ac29e949d5ad4ddc9c11ccc7b45620cdcc",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "8",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\8\\02_LAAMRI_Brahim_Estratto_nascita.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\8\\02_LAAMRI_Brahim_Estratto_nascita.docx",
+    "sha256": "9969c5a81d8477ffda7f6f5e1f47b7927f70ae11038f6f4637405630aa5f579d",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "8",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\8\\03_KARTOT_Kholoud_Copia_integrale_nascita.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\8\\03_KARTOT_Kholoud_Copia_integrale_nascita.docx",
+    "sha256": "cd4ec7b404dc421906a05516fa9bdbc6500f441e0963b10b72aad6815ddbad66",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "8",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\8\\04_KARTOT_Kholoud_Unica_moglie.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\8\\04_KARTOT_Kholoud_Unica_moglie.docx",
+    "sha256": "76eb8196c1de393628b2723ba83771142ed074450c63e26d6d43369aa7a0f65e",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "8",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\8\\05_KARTOT_Kholoud_Non_divorzio.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\8\\05_KARTOT_Kholoud_Non_divorzio.docx",
+    "sha256": "98ab85606292afe99d0b7b9d3682ecdda5124146dc5aab4118a65b685d5e9f64",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "8",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\8\\06_LAAMRI_Mourad_Libretto_di_famiglia.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\8\\06_LAAMRI_Mourad_Libretto_di_famiglia.docx",
+    "sha256": "b016dbaa53a4f7d306ab79bcc682d96dfa5c4006be039c29ee016aa2fc7b920e",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "9",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\9\\01_ELJIHAD_Nadia_-_ELJIHAD_Mohammed_Presa_a_carico.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\9\\01_ELJIHAD_Nadia_-_ELJIHAD_Mohammed_Presa_a_carico.docx",
+    "sha256": "c6bb2d33201d59ec483892474d2069f0e81d39d00ed005be8e46d1aaca591372",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "9",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\9\\02_ELJIHAD_Mohammed_Legame_di_parentela.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\9\\02_ELJIHAD_Mohammed_Legame_di_parentela.docx",
+    "sha256": "1f2308cd31e53dd05321b436a5c0a7338a185a7524b2e7c2f930fb63d2ed6ca3",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "9",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\9\\03_ELJIHAD_Mohammed_Copia_integrale_nascita.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\9\\03_ELJIHAD_Mohammed_Copia_integrale_nascita.docx",
+    "sha256": "698304b437a23171ce57eba733677fff0a71c0b24b0cb920e5d78d5c44a131a2",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "9",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\9\\04_ELJIHAD_Mohammed_Estratto_nascita.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\9\\04_ELJIHAD_Mohammed_Estratto_nascita.docx",
+    "sha256": "5c373cb22e79ff3a97befb4f63cb5584a2184e0a6ff3f9cfb71a35d5e2cfcee3",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "9",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\9\\05_ELJIHAD_Hassan_Libretto_di_famiglia.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\9\\05_ELJIHAD_Hassan_Libretto_di_famiglia.docx",
+    "sha256": "5fd441acb6103f3e480ef1c6d76e77c82ae44ba44b5745e235853ece33527ad4",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "9",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\9\\06_ELJIHAD_Mohammed_Diploma_maturita.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\9\\06_ELJIHAD_Mohammed_Diploma_maturita.docx",
+    "sha256": "ccff9561d13423bf5bae56edf5f18d2d9b19ef5d0475b0e06cbec22dc72e520e",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "9",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\9\\07_ELJIHAD_Mohammed_Voti_maturita.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\9\\07_ELJIHAD_Mohammed_Voti_maturita.docx",
+    "sha256": "536ca4719760c5c63e6d18f989476b1fec2ab0549685de7d78a8318a4de0b5f2",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "10",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\10\\01_HAKKI_Mustapha_Notifica_identificativo_fiscale.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\10\\01_HAKKI_Mustapha_Notifica_identificativo_fiscale.docx",
+    "sha256": "bafcad57d51023b41b0a08b4162d27ddc5aae22715a6a957349680a873129aec",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "10",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\10\\02_HAKKI_Mustapha_Cifra_affari.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\10\\02_HAKKI_Mustapha_Cifra_affari.docx",
+    "sha256": "4bb6d434ba68afa3a2eb763408d1905d19afdbb3ee1b63fdcee4fde7036987ad",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "10",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\10\\03_HAKKI_Mustapha_Regolarita_fiscale.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\10\\03_HAKKI_Mustapha_Regolarita_fiscale.docx",
+    "sha256": "788c2f3bef029158b24121211b046929afd683661c97f4eb90105761b40223db",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "10",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\10\\04_HAKKI_Mustapha_Iscrizione_tassa_professionale.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\10\\04_HAKKI_Mustapha_Iscrizione_tassa_professionale.docx",
+    "sha256": "dcf7a84f131478fbe489a336abc4d7ceee9420a717c89be6023650f6b1f4f483",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "11",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\11\\01_ABDELLAOUI_Farid_-_ABDELLAOUI_Zakaryae_Presa_a_carico.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\11\\01_ABDELLAOUI_Farid_-_ABDELLAOUI_Zakaryae_Presa_a_carico.docx",
+    "sha256": "9ebddea872c8e68c5fab1ff1dfee93c1d31f801a4590bcf8eb561ef63a4bd875",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "11",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\11\\02_ABDELLAOUI_Abdelghani_Mohammed_Farid_Zakaryae_Ouassila_Fatimazh_rae_Esistenza_in_vita_collettiva.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\11\\02_ABDELLAOUI_Abdelghani_Mohammed_Farid_Zakaryae_Ouassila_Fatimazh_rae_Esistenza_in_vita_collettiva.docx",
+    "sha256": "3049c72c539a4041f32688cdedd60cdd827d705b12e166464559214ee38f8f0b",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "11",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\11\\03_ABDELLAOUI_Zakaryae_Legame_di_parentela.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\11\\03_ABDELLAOUI_Zakaryae_Legame_di_parentela.docx",
+    "sha256": "f088ee21efcab8df057fe8dee4f10049a94b257b85814bc3f6fb24475ead81fe",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "11",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\11\\04_ABDELLAOUI_Abdelhamid_Libretto_di_famiglia.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\11\\04_ABDELLAOUI_Abdelhamid_Libretto_di_famiglia.docx",
+    "sha256": "681d0a1559876cba785b479cf59cc003c725319119868c4010cc1920ea338993",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "15",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\15\\01_EL_ABBADI_Fadwa_Attestato_del_baccalaureato.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\15\\01_EL_ABBADI_Fadwa_Attestato_del_baccalaureato.docx",
+    "sha256": "28a33f40be3eb7f8fcf4faa87fe75851c8003cdab53adb76c04672f3b9bb8305",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "15",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\15\\02_EL_ABBADI_Fadwa_Pagella_del_baccalaureato.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\15\\02_EL_ABBADI_Fadwa_Pagella_del_baccalaureato.docx",
+    "sha256": "a6a56f15395cd00f0994f3cce5082bf1a82255229541f668f33142809b933efd",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "15",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\15\\03_EL_ABBADI_Fadwa_Pagella_IFPP_secondo_anno.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\15\\03_EL_ABBADI_Fadwa_Pagella_IFPP_secondo_anno.docx",
+    "sha256": "48fb3ff97a9c3754052d804041d302dd024b263772e31d07300917a3ff9af8ec",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "15",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\15\\04_EL_ABBADI_Fadwa_Pagella_IFPP_terzo_anno.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\15\\04_EL_ABBADI_Fadwa_Pagella_IFPP_terzo_anno.docx",
+    "sha256": "9b51251af5508469f4138fbd99768e176388223042443fda5570b4b79d0b4303",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "15",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\15\\05_EL_ABBADI_Fadwa_Riepilogo_voti_IFPP.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\15\\05_EL_ABBADI_Fadwa_Riepilogo_voti_IFPP.docx",
+    "sha256": "9034c5d02daea8b44440350dd1e8bb7fa40637b0f26d97438cc352bab6cba8e9",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "15",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\15\\06_EL_ABBADI_Fadwa_Pagella_IFPP_primo_anno.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\15\\06_EL_ABBADI_Fadwa_Pagella_IFPP_primo_anno.docx",
+    "sha256": "3c93cf7fba23df80c470149cad8c3d042b073dc1f6e6b484d2845bb90f8af4db",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "15",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\15\\07_EL_ABBADI_Fadwa_Diploma_di_tecnico_specializzato_IFPP.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\15\\07_EL_ABBADI_Fadwa_Diploma_di_tecnico_specializzato_IFPP.docx",
+    "sha256": "0db9a2b2f6c469b8f541ef375f2ff8f15fe151b5a6b3c2b1df1e0df3674de378",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "15",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\15\\08_EL_ABBADI_Fadwa_Programma_di_formazione_IFPP.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\15\\08_EL_ABBADI_Fadwa_Programma_di_formazione_IFPP.docx",
+    "sha256": "ca87f2dccad62ffead305e9b4fca73c1f8ad2a0a459c13b9cd1e771334ab435a",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "16",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\16\\01_SIOUAH_Saadia_-_OUAHDANI_Aziz_Legame_di_parentela.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\16\\01_SIOUAH_Saadia_-_OUAHDANI_Aziz_Legame_di_parentela.docx",
+    "sha256": "e5cf47ee9b07b03a92f4b45c87b0b55bee5e5189e586c26beadaf480844acc42",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "16",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\16\\02_OUAHDANI_Aziz_-_SIOUAH_Saadia_Carico_familiare.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\16\\02_OUAHDANI_Aziz_-_SIOUAH_Saadia_Carico_familiare.docx",
+    "sha256": "b72921fe64204e5225ef606b1107145535fdbf1f6c2f3945c6dd78b6da183ea9",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "16",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\16\\03_SIOUAH_Saadia_Estratto_atto_di_nascita.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\16\\03_SIOUAH_Saadia_Estratto_atto_di_nascita.docx",
+    "sha256": "249ab1760c7182c54dd981037ad4d641d1ebb887ad34879f6778d48038cfeeb0",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "16",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\16\\04_SIOUAH_Saadia_Concordanza_dei_nomi.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\16\\04_SIOUAH_Saadia_Concordanza_dei_nomi.docx",
+    "sha256": "8683639f41cc357572999012b9e85ff882aa16e7843f8d492cc87a8debdf8acc",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  },
+  {
+    "pdf": "16",
+    "word": "WORD_TRADUITS_CORRIGES_7_16\\16\\05_OUAHDANI_Abdelmajid_Libretto_di_famiglia.docx",
+    "gold": "gold\\EXEMPLES_TRADUITS\\CORRECTION_7_16_20261005\\16\\05_OUAHDANI_Abdelmajid_Libretto_di_famiglia.docx",
+    "sha256": "68d7bd81695cf8a79608bc3a91794c362c82cc236b42009ae1fc041501954da2",
+    "statut": "corrigé par assistant ; validation utilisateur non reçue",
+    "correction": "vocabulaire utilisateur 2026-10-05"
+  }
+]
